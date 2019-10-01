@@ -1,0 +1,152 @@
+
+The value of the tetranacci(0)0
+The time of tetranacci (0) is :0.0
+
+
+The value of the tetranacci(1)0
+The time of tetranacci (1) is :0.0
+
+
+The value of the tetranacci(2)0
+The time of tetranacci (2) is :0.0
+
+
+The value of the tetranacci(3)1
+The time of tetranacci (3) is :0.0
+
+
+The value of the tetranacci(4)1
+The time of tetranacci (4) is :0.0
+
+
+The value of the tetranacci(5)2
+The time of tetranacci (5) is :0.0
+
+
+The value of the tetranacci(6)4
+The time of tetranacci (6) is :0.0
+
+
+The value of the tetranacci(7)8
+The time of tetranacci (7) is :0.0
+
+
+The value of the tetranacci(8)15
+The time of tetranacci (8) is :0.0
+
+
+The value of the tetranacci(9)29
+The time of tetranacci (9) is :0.0
+
+
+The value of the tetranacci(10)56
+The time of tetranacci (10) is :0.0
+
+
+The value of the tetranacci(11)108
+The time of tetranacci (11) is :0.0
+
+
+The value of the tetranacci(12)208
+The time of tetranacci (12) is :0.0
+
+
+The value of the tetranacci(13)401
+The time of tetranacci (13) is :0.001
+
+
+The value of the tetranacci(14)773
+The time of tetranacci (14) is :0.0
+
+
+The value of the tetranacci(15)1490
+The time of tetranacci (15) is :0.0
+
+
+The value of the tetranacci(16)2872
+The time of tetranacci (16) is :0.0
+
+
+The value of the tetranacci(17)5536
+The time of tetranacci (17) is :0.0
+
+
+The value of the tetranacci(18)10671
+The time of tetranacci (18) is :0.0
+
+
+The value of the tetranacci(19)20569
+The time of tetranacci (19) is :0.001
+
+
+The value of the tetranacci(20)39648
+The time of tetranacci (20) is :0.001
+
+
+The value of the tetranacci(21)76424
+The time of tetranacci (21) is :0.001
+
+
+The value of the tetranacci(22)147312
+The time of tetranacci (22) is :0.002
+
+
+The value of the tetranacci(23)283953
+The time of tetranacci (23) is :0.003
+
+
+The value of the tetranacci(24)547337
+The time of tetranacci (24) is :0.005
+
+
+The value of the tetranacci(25)1055026
+The time of tetranacci (25) is :0.009
+
+
+The value of the tetranacci(26)2033628
+The time of tetranacci (26) is :0.016
+
+
+The value of the tetranacci(27)3919944
+The time of tetranacci (27) is :0.032
+
+
+The value of the tetranacci(28)7555935
+The time of tetranacci (28) is :0.063
+
+
+The value of the tetranacci(29)14564533
+The time of tetranacci (29) is :0.135
+
+
+The value of the tetranacci(30)28074040
+The time of tetranacci (30) is :0.239
+
+
+The value of the tetranacci(31)54114452
+The time of tetranacci (31) is :0.423
+
+
+The value of the tetranacci(32)104308960
+The time of tetranacci (32) is :0.786
+
+
+The value of the tetranacci(33)201061985
+The time of tetranacci (33) is :1.494
+
+
+The value of the tetranacci(34)387559437
+The time of tetranacci (34) is :2.822
+
+
+The value of the tetranacci(35)747044834
+The time of tetranacci (35) is :5.531
+
+
+The value of the tetranacci(36)1439975216
+The time of tetranacci (36) is :10.507
+
+
+The value of the tetranacci(37)2775641472
+The time of tetranacci (37) is :20.136
+

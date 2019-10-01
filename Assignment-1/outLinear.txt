@@ -1,0 +1,4000 @@
+
+The value of the tetranacci(0)0
+The time of tetranacci (0) is :0.0
+
+
+The value of the tetranacci(1)0
+The time of tetranacci (1) is :0.0
+
+
+The value of the tetranacci(2)0
+The time of tetranacci (2) is :0.0
+
+
+The value of the tetranacci(3)1
+The time of tetranacci (3) is :0.0
+
+
+The value of the tetranacci(4)1
+The time of tetranacci (4) is :0.0
+
+
+The value of the tetranacci(5)2
+The time of tetranacci (5) is :0.0
+
+
+The value of the tetranacci(6)4
+The time of tetranacci (6) is :0.0
+
+
+The value of the tetranacci(7)8
+The time of tetranacci (7) is :0.0
+
+
+The value of the tetranacci(8)15
+The time of tetranacci (8) is :0.0
+
+
+The value of the tetranacci(9)29
+The time of tetranacci (9) is :0.0
+
+
+The value of the tetranacci(10)56
+The time of tetranacci (10) is :0.0
+
+
+The value of the tetranacci(11)108
+The time of tetranacci (11) is :0.0
+
+
+The value of the tetranacci(12)208
+The time of tetranacci (12) is :0.0
+
+
+The value of the tetranacci(13)401
+The time of tetranacci (13) is :0.0
+
+
+The value of the tetranacci(14)773
+The time of tetranacci (14) is :0.001
+
+
+The value of the tetranacci(15)1490
+The time of tetranacci (15) is :0.0
+
+
+The value of the tetranacci(16)2872
+The time of tetranacci (16) is :0.0
+
+
+The value of the tetranacci(17)5536
+The time of tetranacci (17) is :0.0
+
+
+The value of the tetranacci(18)10671
+The time of tetranacci (18) is :0.0
+
+
+The value of the tetranacci(19)20569
+The time of tetranacci (19) is :0.0
+
+
+The value of the tetranacci(20)39648
+The time of tetranacci (20) is :0.0
+
+
+The value of the tetranacci(21)76424
+The time of tetranacci (21) is :0.0
+
+
+The value of the tetranacci(22)147312
+The time of tetranacci (22) is :0.0
+
+
+The value of the tetranacci(23)283953
+The time of tetranacci (23) is :0.0
+
+
+The value of the tetranacci(24)547337
+The time of tetranacci (24) is :0.0
+
+
+The value of the tetranacci(25)1055026
+The time of tetranacci (25) is :0.0
+
+
+The value of the tetranacci(26)2033628
+The time of tetranacci (26) is :0.0
+
+
+The value of the tetranacci(27)3919944
+The time of tetranacci (27) is :0.0
+
+
+The value of the tetranacci(28)7555935
+The time of tetranacci (28) is :0.0
+
+
+The value of the tetranacci(29)14564533
+The time of tetranacci (29) is :0.0
+
+
+The value of the tetranacci(30)28074040
+The time of tetranacci (30) is :0.0
+
+
+The value of the tetranacci(31)54114452
+The time of tetranacci (31) is :0.0
+
+
+The value of the tetranacci(32)104308960
+The time of tetranacci (32) is :0.0
+
+
+The value of the tetranacci(33)201061985
+The time of tetranacci (33) is :0.0
+
+
+The value of the tetranacci(34)387559437
+The time of tetranacci (34) is :0.0
+
+
+The value of the tetranacci(35)747044834
+The time of tetranacci (35) is :0.0
+
+
+The value of the tetranacci(36)1439975216
+The time of tetranacci (36) is :0.0
+
+
+The value of the tetranacci(37)-1519325824
+The time of tetranacci (37) is :0.0
+
+
+The value of the tetranacci(38)1055253663
+The time of tetranacci (38) is :0.0
+
+
+The value of the tetranacci(39)1722947889
+The time of tetranacci (39) is :0.0
+
+
+The value of the tetranacci(40)-1596116352
+The time of tetranacci (40) is :0.0
+
+
+The value of the tetranacci(41)-337240624
+The time of tetranacci (41) is :0.001
+
+
+The value of the tetranacci(42)844844576
+The time of tetranacci (42) is :0.0
+
+
+The value of the tetranacci(43)634435489
+The time of tetranacci (43) is :0.0
+
+
+The value of the tetranacci(44)-454076911
+The time of tetranacci (44) is :0.0
+
+
+The value of the tetranacci(45)687962530
+The time of tetranacci (45) is :0.0
+
+
+The value of the tetranacci(46)1713165684
+The time of tetranacci (46) is :0.0
+
+
+The value of the tetranacci(47)-1713480504
+The time of tetranacci (47) is :0.0
+
+
+The value of the tetranacci(48)233570799
+The time of tetranacci (48) is :0.0
+
+
+The value of the tetranacci(49)921218509
+The time of tetranacci (49) is :0.0
+
+
+The value of the tetranacci(50)1154474488
+The time of tetranacci (50) is :0.0
+
+
+The value of the tetranacci(51)595783292
+The time of tetranacci (51) is :0.0
+
+
+The value of the tetranacci(52)-1389920208
+The time of tetranacci (52) is :0.0
+
+
+The value of the tetranacci(53)1281556081
+The time of tetranacci (53) is :0.0
+
+
+The value of the tetranacci(54)1641893653
+The time of tetranacci (54) is :0.0
+
+
+The value of the tetranacci(55)2129312818
+The time of tetranacci (55) is :0.0
+
+
+The value of the tetranacci(56)-632124952
+The time of tetranacci (56) is :0.0
+
+
+The value of the tetranacci(57)125670304
+The time of tetranacci (57) is :0.0
+
+
+The value of the tetranacci(58)-1030215473
+The time of tetranacci (58) is :0.0
+
+
+The value of the tetranacci(59)592642697
+The time of tetranacci (59) is :0.0
+
+
+The value of the tetranacci(60)-944027424
+The time of tetranacci (60) is :0.0
+
+
+The value of the tetranacci(61)-1255929896
+The time of tetranacci (61) is :0.001
+
+
+The value of the tetranacci(62)1657437200
+The time of tetranacci (62) is :0.0
+
+
+The value of the tetranacci(63)50122577
+The time of tetranacci (63) is :0.0
+
+
+The value of the tetranacci(64)-492397543
+The time of tetranacci (64) is :0.0
+
+
+The value of the tetranacci(65)-40767662
+The time of tetranacci (65) is :0.0
+
+
+The value of the tetranacci(66)1174394572
+The time of tetranacci (66) is :0.0
+
+
+The value of the tetranacci(67)691351944
+The time of tetranacci (67) is :0.0
+
+
+The value of the tetranacci(68)1332581311
+The time of tetranacci (68) is :0.0
+
+
+The value of the tetranacci(69)-1137407131
+The time of tetranacci (69) is :0.0
+
+
+The value of the tetranacci(70)2060920696
+The time of tetranacci (70) is :0.0
+
+
+The value of the tetranacci(71)-1347520476
+The time of tetranacci (71) is :0.0
+
+
+The value of the tetranacci(72)908574400
+The time of tetranacci (72) is :0.0
+
+
+The value of the tetranacci(73)484567489
+The time of tetranacci (73) is :0.0
+
+
+The value of the tetranacci(74)2106542109
+The time of tetranacci (74) is :0.0
+
+
+The value of the tetranacci(75)-2142803774
+The time of tetranacci (75) is :0.0
+
+
+The value of the tetranacci(76)1356880224
+The time of tetranacci (76) is :0.0
+
+
+The value of the tetranacci(77)1805186048
+The time of tetranacci (77) is :0.0
+
+
+The value of the tetranacci(78)-1169162689
+The time of tetranacci (78) is :0.0
+
+
+The value of the tetranacci(79)-149900191
+The time of tetranacci (79) is :0.0
+
+
+The value of the tetranacci(80)1843003392
+The time of tetranacci (80) is :0.0
+
+
+The value of the tetranacci(81)-1965840736
+The time of tetranacci (81) is :0.0
+
+
+The value of the tetranacci(82)-1441900224
+The time of tetranacci (82) is :0.0
+
+
+The value of the tetranacci(83)-1714637759
+The time of tetranacci (83) is :0.0
+
+
+The value of the tetranacci(84)1015591969
+The time of tetranacci (84) is :0.0
+
+
+The value of the tetranacci(85)188180546
+The time of tetranacci (85) is :0.0
+
+
+The value of the tetranacci(86)-1952765468
+The time of tetranacci (86) is :0.0
+
+
+The value of the tetranacci(87)1831336584
+The time of tetranacci (87) is :0.0
+
+
+The value of the tetranacci(88)1082343631
+The time of tetranacci (88) is :0.0
+
+
+The value of the tetranacci(89)1149095293
+The time of tetranacci (89) is :0.0
+
+
+The value of the tetranacci(90)2110010040
+The time of tetranacci (90) is :0.0
+
+
+The value of the tetranacci(91)1877818252
+The time of tetranacci (91) is :0.0
+
+
+The value of the tetranacci(92)1924299920
+The time of tetranacci (92) is :0.0
+
+
+The value of the tetranacci(93)-1528711087
+The time of tetranacci (93) is :0.0
+
+
+The value of the tetranacci(94)88449829
+The time of tetranacci (94) is :0.0
+
+
+The value of the tetranacci(95)-1933110382
+The time of tetranacci (95) is :0.0
+
+
+The value of the tetranacci(96)-1449071720
+The time of tetranacci (96) is :0.0
+
+
+The value of the tetranacci(97)-527476064
+The time of tetranacci (97) is :0.0
+
+
+The value of the tetranacci(98)473758959
+The time of tetranacci (98) is :0.0
+
+
+The value of the tetranacci(99)859068089
+The time of tetranacci (99) is :0.0
+
+
+The value of the tetranacci(100)-643720736
+The time of tetranacci (100) is :0.0
+
+
+The value of the tetranacci(101)161630248
+The time of tetranacci (101) is :0.0
+
+
+The value of the tetranacci(102)850736560
+The time of tetranacci (102) is :0.0
+
+
+The value of the tetranacci(103)1227714161
+The time of tetranacci (103) is :0.0
+
+
+The value of the tetranacci(104)1596360233
+The time of tetranacci (104) is :0.0
+
+
+The value of the tetranacci(105)-458526094
+The time of tetranacci (105) is :0.0
+
+
+The value of the tetranacci(106)-1078682436
+The time of tetranacci (106) is :0.0
+
+
+The value of the tetranacci(107)1286865864
+The time of tetranacci (107) is :0.0
+
+
+The value of the tetranacci(108)1346017567
+The time of tetranacci (108) is :0.0
+
+
+The value of the tetranacci(109)1095674901
+The time of tetranacci (109) is :0.0
+
+
+The value of the tetranacci(110)-1645091400
+The time of tetranacci (110) is :0.0
+
+
+The value of the tetranacci(111)2083466932
+The time of tetranacci (111) is :0.0
+
+
+The value of the tetranacci(112)-1414899296
+The time of tetranacci (112) is :0.0
+
+
+The value of the tetranacci(113)119151137
+The time of tetranacci (113) is :0.0
+
+
+The value of the tetranacci(114)-857372627
+The time of tetranacci (114) is :0.0
+
+
+The value of the tetranacci(115)-69653854
+The time of tetranacci (115) is :0.0
+
+
+The value of the tetranacci(116)2072192656
+The time of tetranacci (116) is :0.0
+
+
+The value of the tetranacci(117)1264317312
+The time of tetranacci (117) is :0.0
+
+
+The value of the tetranacci(118)-1885483809
+The time of tetranacci (118) is :0.0
+
+
+The value of the tetranacci(119)1381372305
+The time of tetranacci (119) is :0.0
+
+
+The value of the tetranacci(120)-1462568832
+The time of tetranacci (120) is :0.0
+
+
+The value of the tetranacci(121)-702363024
+The time of tetranacci (121) is :0.0
+
+
+The value of the tetranacci(122)1625923936
+The time of tetranacci (122) is :0.0
+
+
+The value of the tetranacci(123)842364385
+The time of tetranacci (123) is :0.0
+
+
+The value of the tetranacci(124)303356465
+The time of tetranacci (124) is :0.0
+
+
+The value of the tetranacci(125)2069281762
+The time of tetranacci (125) is :0.0
+
+
+The value of the tetranacci(126)545959252
+The time of tetranacci (126) is :0.0
+
+
+The value of the tetranacci(127)-534005432
+The time of tetranacci (127) is :0.0
+
+
+The value of the tetranacci(128)-1910375249
+The time of tetranacci (128) is :0.0
+
+
+The value of the tetranacci(129)170860333
+The time of tetranacci (129) is :0.0
+
+
+The value of the tetranacci(130)-1727561096
+The time of tetranacci (130) is :0.0
+
+
+The value of the tetranacci(131)293885852
+The time of tetranacci (131) is :0.0
+
+
+The value of the tetranacci(132)1121777136
+The time of tetranacci (132) is :0.0
+
+
+The value of the tetranacci(133)-141037775
+The time of tetranacci (133) is :0.0
+
+
+The value of the tetranacci(134)-452935883
+The time of tetranacci (134) is :0.0
+
+
+The value of the tetranacci(135)821689330
+The time of tetranacci (135) is :0.001
+
+
+The value of the tetranacci(136)1349492808
+The time of tetranacci (136) is :0.0
+
+
+The value of the tetranacci(137)1577208480
+The time of tetranacci (137) is :0.0
+
+
+The value of the tetranacci(138)-999512561
+The time of tetranacci (138) is :0.0
+
+
+The value of the tetranacci(139)-1546089239
+The time of tetranacci (139) is :0.0
+
+
+The value of the tetranacci(140)381099488
+The time of tetranacci (140) is :0.0
+
+
+The value of the tetranacci(141)-587293832
+The time of tetranacci (141) is :0.0
+
+
+The value of the tetranacci(142)1543171152
+The time of tetranacci (142) is :0.0
+
+
+The value of the tetranacci(143)-209112431
+The time of tetranacci (143) is :0.0
+
+
+The value of the tetranacci(144)1127864377
+The time of tetranacci (144) is :0.0
+
+
+The value of the tetranacci(145)1874629266
+The time of tetranacci (145) is :0.0
+
+
+The value of the tetranacci(146)41585068
+The time of tetranacci (146) is :0.0
+
+
+The value of the tetranacci(147)-1460001016
+The time of tetranacci (147) is :0.0
+
+
+The value of the tetranacci(148)1584077695
+The time of tetranacci (148) is :0.0
+
+
+The value of the tetranacci(149)2040291013
+The time of tetranacci (149) is :0.0
+
+
+The value of the tetranacci(150)-2089014536
+The time of tetranacci (150) is :0.0
+
+
+The value of the tetranacci(151)75353156
+The time of tetranacci (151) is :0.0
+
+
+The value of the tetranacci(152)1610707328
+The time of tetranacci (152) is :0.0
+
+
+The value of the tetranacci(153)1637336961
+The time of tetranacci (153) is :0.0
+
+
+The value of the tetranacci(154)1234382909
+The time of tetranacci (154) is :0.0
+
+
+The value of the tetranacci(155)262813058
+The time of tetranacci (155) is :0.0
+
+
+The value of the tetranacci(156)450272960
+The time of tetranacci (156) is :0.0
+
+
+The value of the tetranacci(157)-710161408
+The time of tetranacci (157) is :0.0
+
+
+The value of the tetranacci(158)1237307519
+The time of tetranacci (158) is :0.0
+
+
+The value of the tetranacci(159)1240232129
+The time of tetranacci (159) is :0.0
+
+
+The value of the tetranacci(160)-2077316096
+The time of tetranacci (160) is :0.0
+
+
+The value of the tetranacci(161)-309937856
+The time of tetranacci (161) is :0.0
+
+
+The value of the tetranacci(162)90285696
+The time of tetranacci (162) is :0.0
+
+
+The value of the tetranacci(163)-1056736127
+The time of tetranacci (163) is :0.0
+
+
+The value of the tetranacci(164)941262913
+The time of tetranacci (164) is :0.0
+
+
+The value of the tetranacci(165)-335125374
+The time of tetranacci (165) is :0.0
+
+
+The value of the tetranacci(166)-360312892
+The time of tetranacci (166) is :0.0
+
+
+The value of the tetranacci(167)-810911480
+The time of tetranacci (167) is :0.0
+
+
+The value of the tetranacci(168)-565086833
+The time of tetranacci (168) is :0.0
+
+
+The value of the tetranacci(169)-2071436579
+The time of tetranacci (169) is :0.0
+
+
+The value of the tetranacci(170)487219512
+The time of tetranacci (170) is :0.0
+
+
+The value of the tetranacci(171)1334751916
+The time of tetranacci (171) is :0.0
+
+
+The value of the tetranacci(172)-814551984
+The time of tetranacci (172) is :0.0
+
+
+The value of the tetranacci(173)-1064017135
+The time of tetranacci (173) is :0.0
+
+
+The value of the tetranacci(174)-56597691
+The time of tetranacci (174) is :0.0
+
+
+The value of the tetranacci(175)-600414894
+The time of tetranacci (175) is :0.0
+
+
+The value of the tetranacci(176)1759385592
+The time of tetranacci (176) is :0.0
+
+
+The value of the tetranacci(177)38355872
+The time of tetranacci (177) is :0.0
+
+
+The value of the tetranacci(178)1140728879
+The time of tetranacci (178) is :0.0
+
+
+The value of the tetranacci(179)-1956911847
+The time of tetranacci (179) is :0.0
+
+
+The value of the tetranacci(180)981558496
+The time of tetranacci (180) is :0.0
+
+
+The value of the tetranacci(181)203731400
+The time of tetranacci (181) is :0.0
+
+
+The value of the tetranacci(182)369106928
+The time of tetranacci (182) is :0.0
+
+
+The value of the tetranacci(183)-402515023
+The time of tetranacci (183) is :0.0
+
+
+The value of the tetranacci(184)1151881801
+The time of tetranacci (184) is :0.0
+
+
+The value of the tetranacci(185)1322205106
+The time of tetranacci (185) is :0.0
+
+
+The value of the tetranacci(186)-1854288484
+The time of tetranacci (186) is :0.0
+
+
+The value of the tetranacci(187)217283400
+The time of tetranacci (187) is :0.0
+
+
+The value of the tetranacci(188)837081823
+The time of tetranacci (188) is :0.0
+
+
+The value of the tetranacci(189)522281845
+The time of tetranacci (189) is :0.0
+
+
+The value of the tetranacci(190)-277641416
+The time of tetranacci (190) is :0.0
+
+
+The value of the tetranacci(191)1299005652
+The time of tetranacci (191) is :0.0
+
+
+The value of the tetranacci(192)-1914239392
+The time of tetranacci (192) is :0.0
+
+
+The value of the tetranacci(193)-370593311
+The time of tetranacci (193) is :0.0
+
+
+The value of the tetranacci(194)-1263468467
+The time of tetranacci (194) is :0.0
+
+
+The value of the tetranacci(195)2045671778
+The time of tetranacci (195) is :0.0
+
+
+The value of the tetranacci(196)-1502629392
+The time of tetranacci (196) is :0.0
+
+
+The value of the tetranacci(197)-1091019392
+The time of tetranacci (197) is :0.0
+
+
+The value of the tetranacci(198)-1811445473
+The time of tetranacci (198) is :0.0
+
+
+The value of the tetranacci(199)1935544817
+The time of tetranacci (199) is :0.0
+
+
+The value of the tetranacci(200)1825417856
+The time of tetranacci (200) is :0.0
+
+
+The value of the tetranacci(201)858497808
+The time of tetranacci (201) is :0.0
+
+
+The value of the tetranacci(202)-1486952288
+The time of tetranacci (202) is :0.0
+
+
+The value of the tetranacci(203)-1162459103
+The time of tetranacci (203) is :0.0
+
+
+The value of the tetranacci(204)34504273
+The time of tetranacci (204) is :0.0
+
+
+The value of the tetranacci(205)-1756409310
+The time of tetranacci (205) is :0.0
+
+
+The value of the tetranacci(206)-76349132
+The time of tetranacci (206) is :0.0
+
+
+The value of the tetranacci(207)1334254024
+The time of tetranacci (207) is :0.0
+
+
+The value of the tetranacci(208)-464000145
+The time of tetranacci (208) is :0.0
+
+
+The value of the tetranacci(209)-962504563
+The time of tetranacci (209) is :0.0
+
+
+The value of the tetranacci(210)-168599816
+The time of tetranacci (210) is :0.0
+
+
+The value of the tetranacci(211)-260850500
+The time of tetranacci (211) is :0.0
+
+
+The value of the tetranacci(212)-1855955024
+The time of tetranacci (212) is :0.0
+
+
+The value of the tetranacci(213)1047057393
+The time of tetranacci (213) is :0.0
+
+
+The value of the tetranacci(214)-1238347947
+The time of tetranacci (214) is :0.0
+
+
+The value of the tetranacci(215)1986871218
+The time of tetranacci (215) is :0.0
+
+
+The value of the tetranacci(216)-60374360
+The time of tetranacci (216) is :0.0
+
+
+The value of the tetranacci(217)1735206304
+The time of tetranacci (217) is :0.0
+
+
+The value of the tetranacci(218)-1871612081
+The time of tetranacci (218) is :0.0
+
+
+The value of the tetranacci(219)1790091081
+The time of tetranacci (219) is :0.0
+
+
+The value of the tetranacci(220)1593310944
+The time of tetranacci (220) is :0.0
+
+
+The value of the tetranacci(221)-1047971048
+The time of tetranacci (221) is :0.0
+
+
+The value of the tetranacci(222)463818896
+The time of tetranacci (222) is :0.0
+
+
+The value of the tetranacci(223)-1495717423
+The time of tetranacci (223) is :0.0
+
+
+The value of the tetranacci(224)-486558631
+The time of tetranacci (224) is :0.0
+
+
+The value of the tetranacci(225)1728539090
+The time of tetranacci (225) is :0.001
+
+
+The value of the tetranacci(226)210081932
+The time of tetranacci (226) is :0.0
+
+
+The value of the tetranacci(227)-43655032
+The time of tetranacci (227) is :0.0
+
+
+The value of the tetranacci(228)1408407359
+The time of tetranacci (228) is :0.0
+
+
+The value of the tetranacci(229)-991593947
+The time of tetranacci (229) is :0.0
+
+
+The value of the tetranacci(230)583240312
+The time of tetranacci (230) is :0.0
+
+
+The value of the tetranacci(231)956398692
+The time of tetranacci (231) is :0.0
+
+
+The value of the tetranacci(232)1956452416
+The time of tetranacci (232) is :0.0
+
+
+The value of the tetranacci(233)-1790469823
+The time of tetranacci (233) is :0.0
+
+
+The value of the tetranacci(234)1705621597
+The time of tetranacci (234) is :0.0
+
+
+The value of the tetranacci(235)-1466964414
+The time of tetranacci (235) is :0.0
+
+
+The value of the tetranacci(236)404639776
+The time of tetranacci (236) is :0.0
+
+
+The value of the tetranacci(237)-1147172864
+The time of tetranacci (237) is :0.0
+
+
+The value of the tetranacci(238)-503875905
+The time of tetranacci (238) is :0.0
+
+
+The value of the tetranacci(239)1581593889
+The time of tetranacci (239) is :0.0
+
+
+The value of the tetranacci(240)335184896
+The time of tetranacci (240) is :0.0
+
+
+The value of the tetranacci(241)265730016
+The time of tetranacci (241) is :0.0
+
+
+The value of the tetranacci(242)1678632896
+The time of tetranacci (242) is :0.0
+
+
+The value of the tetranacci(243)-433825599
+The time of tetranacci (243) is :0.0
+
+
+The value of the tetranacci(244)1845722209
+The time of tetranacci (244) is :0.0
+
+
+The value of the tetranacci(245)-938707774
+The time of tetranacci (245) is :0.0
+
+
+The value of the tetranacci(246)-2143145564
+The time of tetranacci (246) is :0.0
+
+
+The value of the tetranacci(247)-1669956728
+The time of tetranacci (247) is :0.0
+
+
+The value of the tetranacci(248)1388879439
+The time of tetranacci (248) is :0.0
+
+
+The value of the tetranacci(249)932036669
+The time of tetranacci (249) is :0.0
+
+
+The value of the tetranacci(250)-1492186184
+The time of tetranacci (250) is :0.0
+
+
+The value of the tetranacci(251)-841226804
+The time of tetranacci (251) is :0.0
+
+
+The value of the tetranacci(252)-12496880
+The time of tetranacci (252) is :0.0
+
+
+The value of the tetranacci(253)-1413873199
+The time of tetranacci (253) is :0.0
+
+
+The value of the tetranacci(254)535184229
+The time of tetranacci (254) is :0.0
+
+
+The value of the tetranacci(255)-1732412654
+The time of tetranacci (255) is :0.0
+
+
+The value of the tetranacci(256)1671368792
+The time of tetranacci (256) is :0.0
+
+
+The value of the tetranacci(257)-939732832
+The time of tetranacci (257) is :0.0
+
+
+The value of the tetranacci(258)-465592465
+The time of tetranacci (258) is :0.0
+
+
+The value of the tetranacci(259)-1466369159
+The time of tetranacci (259) is :0.0
+
+
+The value of the tetranacci(260)-1200325664
+The time of tetranacci (260) is :0.0
+
+
+The value of the tetranacci(261)222947176
+The time of tetranacci (261) is :0.0
+
+
+The value of the tetranacci(262)1385627184
+The time of tetranacci (262) is :0.0
+
+
+The value of the tetranacci(263)-1058120463
+The time of tetranacci (263) is :0.0
+
+
+The value of the tetranacci(264)-649871767
+The time of tetranacci (264) is :0.0
+
+
+The value of the tetranacci(265)-99417870
+The time of tetranacci (265) is :0.0
+
+
+The value of the tetranacci(266)-421782916
+The time of tetranacci (266) is :0.0
+
+
+The value of the tetranacci(267)2065774280
+The time of tetranacci (267) is :0.0
+
+
+The value of the tetranacci(268)894701727
+The time of tetranacci (268) is :0.0
+
+
+The value of the tetranacci(269)-1855692075
+The time of tetranacci (269) is :0.0
+
+
+The value of the tetranacci(270)683001016
+The time of tetranacci (270) is :0.0
+
+
+The value of the tetranacci(271)1787784948
+The time of tetranacci (271) is :0.0
+
+
+The value of the tetranacci(272)1509795616
+The time of tetranacci (272) is :0.0
+
+
+The value of the tetranacci(273)2124889505
+The time of tetranacci (273) is :0.0
+
+
+The value of the tetranacci(274)1810503789
+The time of tetranacci (274) is :0.0
+
+
+The value of the tetranacci(275)-1356960734
+The time of tetranacci (275) is :0.0
+
+
+The value of the tetranacci(276)-206739120
+The time of tetranacci (276) is :0.0
+
+
+The value of the tetranacci(277)-1923273856
+The time of tetranacci (277) is :0.0
+
+
+The value of the tetranacci(278)-1676469921
+The time of tetranacci (278) is :0.0
+
+
+The value of the tetranacci(279)-868476335
+The time of tetranacci (279) is :0.0
+
+
+The value of the tetranacci(280)-379991936
+The time of tetranacci (280) is :0.0
+
+
+The value of the tetranacci(281)-553244752
+The time of tetranacci (281) is :0.0
+
+
+The value of the tetranacci(282)816784352
+The time of tetranacci (282) is :0.0
+
+
+The value of the tetranacci(283)-984928671
+The time of tetranacci (283) is :0.0
+
+
+The value of the tetranacci(284)-1101381007
+The time of tetranacci (284) is :0.0
+
+
+The value of the tetranacci(285)-1822770078
+The time of tetranacci (285) is :0.0
+
+
+The value of the tetranacci(286)1202671892
+The time of tetranacci (286) is :0.0
+
+
+The value of the tetranacci(287)1588559432
+The time of tetranacci (287) is :0.0
+
+
+The value of the tetranacci(288)-132919761
+The time of tetranacci (288) is :0.0
+
+
+The value of the tetranacci(289)835541485
+The time of tetranacci (289) is :0.0
+
+
+The value of the tetranacci(290)-801114248
+The time of tetranacci (290) is :0.0
+
+
+The value of the tetranacci(291)1490066908
+The time of tetranacci (291) is :0.001
+
+
+The value of the tetranacci(292)1391574384
+The time of tetranacci (292) is :0.0
+
+
+The value of the tetranacci(293)-1378898767
+The time of tetranacci (293) is :0.0
+
+
+The value of the tetranacci(294)701628277
+The time of tetranacci (294) is :0.0
+
+
+The value of the tetranacci(295)-2090596494
+The time of tetranacci (295) is :0.0
+
+
+The value of the tetranacci(296)-1376292600
+The time of tetranacci (296) is :0.0
+
+
+The value of the tetranacci(297)150807712
+The time of tetranacci (297) is :0.0
+
+
+The value of the tetranacci(298)1680514191
+The time of tetranacci (298) is :0.0
+
+
+The value of the tetranacci(299)-1635567191
+The time of tetranacci (299) is :0.0
+
+
+The value of the tetranacci(300)-1180537888
+The time of tetranacci (300) is :0.0
+
+
+The value of the tetranacci(301)-984783176
+The time of tetranacci (301) is :0.0
+
+
+The value of the tetranacci(302)-2120374064
+The time of tetranacci (302) is :0.0
+
+
+The value of the tetranacci(303)-1626295023
+The time of tetranacci (303) is :0.0
+
+
+The value of the tetranacci(304)-1617022855
+The time of tetranacci (304) is :0.0
+
+
+The value of the tetranacci(305)-2053507822
+The time of tetranacci (305) is :0.0
+
+
+The value of the tetranacci(306)1172734828
+The time of tetranacci (306) is :0.0
+
+
+The value of the tetranacci(307)170876424
+The time of tetranacci (307) is :0.0
+
+
+The value of the tetranacci(308)1968047871
+The time of tetranacci (308) is :0.0
+
+
+The value of the tetranacci(309)1258151301
+The time of tetranacci (309) is :0.0
+
+
+The value of the tetranacci(310)274843128
+The time of tetranacci (310) is :0.0
+
+
+The value of the tetranacci(311)-623048572
+The time of tetranacci (311) is :0.0
+
+
+The value of the tetranacci(312)-1416973568
+The time of tetranacci (312) is :0.0
+
+
+The value of the tetranacci(313)-507027711
+The time of tetranacci (313) is :0.0
+
+
+The value of the tetranacci(314)2022760573
+The time of tetranacci (314) is :0.0
+
+
+The value of the tetranacci(315)-524289278
+The time of tetranacci (315) is :0.0
+
+
+The value of the tetranacci(316)-425529984
+The time of tetranacci (316) is :0.0
+
+
+The value of the tetranacci(317)565913600
+The time of tetranacci (317) is :0.0
+
+
+The value of the tetranacci(318)1638854911
+The time of tetranacci (318) is :0.0
+
+
+The value of the tetranacci(319)1254949249
+The time of tetranacci (319) is :0.0
+
+
+The value of the tetranacci(320)-1260779520
+The time of tetranacci (320) is :0.0
+
+
+The value of the tetranacci(321)-2096029056
+The time of tetranacci (321) is :0.0
+
+
+The value of the tetranacci(322)-463004416
+The time of tetranacci (322) is :0.0
+
+
+The value of the tetranacci(323)1730103553
+The time of tetranacci (323) is :0.0
+
+
+The value of the tetranacci(324)-2089709439
+The time of tetranacci (324) is :0.0
+
+
+The value of the tetranacci(325)1376327938
+The time of tetranacci (325) is :0.0
+
+
+The value of the tetranacci(326)553717636
+The time of tetranacci (326) is :0.0
+
+
+The value of the tetranacci(327)1570439688
+The time of tetranacci (327) is :0.0
+
+
+The value of the tetranacci(328)1410775823
+The time of tetranacci (328) is :0.0
+
+
+The value of the tetranacci(329)616293789
+The time of tetranacci (329) is :0.0
+
+
+The value of the tetranacci(330)-143740360
+The time of tetranacci (330) is :0.0
+
+
+The value of the tetranacci(331)-841198356
+The time of tetranacci (331) is :0.0
+
+
+The value of the tetranacci(332)1042130896
+The time of tetranacci (332) is :0.0
+
+
+The value of the tetranacci(333)673485969
+The time of tetranacci (333) is :0.0
+
+
+The value of the tetranacci(334)730678149
+The time of tetranacci (334) is :0.0
+
+
+The value of the tetranacci(335)1605096658
+The time of tetranacci (335) is :0.0
+
+
+The value of the tetranacci(336)-243575624
+The time of tetranacci (336) is :0.0
+
+
+The value of the tetranacci(337)-1529282144
+The time of tetranacci (337) is :0.0
+
+
+The value of the tetranacci(338)562917039
+The time of tetranacci (338) is :0.0
+
+
+The value of the tetranacci(339)395155929
+The time of tetranacci (339) is :0.0
+
+
+The value of the tetranacci(340)-814784800
+The time of tetranacci (340) is :0.0
+
+
+The value of the tetranacci(341)-1385993976
+The time of tetranacci (341) is :0.0
+
+
+The value of the tetranacci(342)-1242705808
+The time of tetranacci (342) is :0.0
+
+
+The value of the tetranacci(343)1246638641
+The time of tetranacci (343) is :0.0
+
+
+The value of the tetranacci(344)2098121353
+The time of tetranacci (344) is :0.0
+
+
+The value of the tetranacci(345)716060210
+The time of tetranacci (345) is :0.0
+
+
+The value of the tetranacci(346)-1476852900
+The time of tetranacci (346) is :0.0
+
+
+The value of the tetranacci(347)-1710999992
+The time of tetranacci (347) is :0.0
+
+
+The value of the tetranacci(348)-373671329
+The time of tetranacci (348) is :0.0
+
+
+The value of the tetranacci(349)1449503285
+The time of tetranacci (349) is :0.0
+
+
+The value of the tetranacci(350)-2112020936
+The time of tetranacci (350) is :0.0
+
+
+The value of the tetranacci(351)1547778324
+The time of tetranacci (351) is :0.0
+
+
+The value of the tetranacci(352)511589344
+The time of tetranacci (352) is :0.0
+
+
+The value of the tetranacci(353)1396850017
+The time of tetranacci (353) is :0.0
+
+
+The value of the tetranacci(354)1344196749
+The time of tetranacci (354) is :0.0
+
+
+The value of the tetranacci(355)505447138
+The time of tetranacci (355) is :0.0
+
+
+The value of the tetranacci(356)-536884048
+The time of tetranacci (356) is :0.0
+
+
+The value of the tetranacci(357)-1585357440
+The time of tetranacci (357) is :0.0
+
+
+The value of the tetranacci(358)-272597601
+The time of tetranacci (358) is :0.0
+
+
+The value of the tetranacci(359)-1889391951
+The time of tetranacci (359) is :0.0
+
+
+The value of the tetranacci(360)10736256
+The time of tetranacci (360) is :0.0
+
+
+The value of the tetranacci(361)558356560
+The time of tetranacci (361) is :0.0
+
+
+The value of the tetranacci(362)-1592896736
+The time of tetranacci (362) is :0.0
+
+
+The value of the tetranacci(363)1381771425
+The time of tetranacci (363) is :0.0
+
+
+The value of the tetranacci(364)357967505
+The time of tetranacci (364) is :0.0
+
+
+The value of the tetranacci(365)705198754
+The time of tetranacci (365) is :0.0
+
+
+The value of the tetranacci(366)852040948
+The time of tetranacci (366) is :0.0
+
+
+The value of the tetranacci(367)-997988664
+The time of tetranacci (367) is :0.0
+
+
+The value of the tetranacci(368)917218543
+The time of tetranacci (368) is :0.0
+
+
+The value of the tetranacci(369)1476469581
+The time of tetranacci (369) is :0.0
+
+
+The value of the tetranacci(370)-2047226888
+The time of tetranacci (370) is :0.0
+
+
+The value of the tetranacci(371)-651527428
+The time of tetranacci (371) is :0.0
+
+
+The value of the tetranacci(372)-305066192
+The time of tetranacci (372) is :0.0
+
+
+The value of the tetranacci(373)-1527350927
+The time of tetranacci (373) is :0.0
+
+
+The value of the tetranacci(374)-236204139
+The time of tetranacci (374) is :0.0
+
+
+The value of the tetranacci(375)1574818610
+The time of tetranacci (375) is :0.0
+
+
+The value of the tetranacci(376)-493802648
+The time of tetranacci (376) is :0.0
+
+
+The value of the tetranacci(377)-682539104
+The time of tetranacci (377) is :0.0
+
+
+The value of the tetranacci(378)162272719
+The time of tetranacci (378) is :0.0
+
+
+The value of the tetranacci(379)560749577
+The time of tetranacci (379) is :0.0
+
+
+The value of the tetranacci(380)-453319456
+The time of tetranacci (380) is :0.0
+
+
+The value of the tetranacci(381)-412836264
+The time of tetranacci (381) is :0.0
+
+
+The value of the tetranacci(382)-143133424
+The time of tetranacci (382) is :0.0
+
+
+The value of the tetranacci(383)-448539567
+The time of tetranacci (383) is :0.0
+
+
+The value of the tetranacci(384)-1457828711
+The time of tetranacci (384) is :0.0
+
+
+The value of the tetranacci(385)1832629330
+The time of tetranacci (385) is :0.0
+
+
+The value of the tetranacci(386)-216872372
+The time of tetranacci (386) is :0.0
+
+
+The value of the tetranacci(387)-290611320
+The time of tetranacci (387) is :0.0
+
+
+The value of the tetranacci(388)-132683073
+The time of tetranacci (388) is :0.0
+
+
+The value of the tetranacci(389)1192462565
+The time of tetranacci (389) is :0.0
+
+
+The value of the tetranacci(390)552295800
+The time of tetranacci (390) is :0.0
+
+
+The value of the tetranacci(391)1321463972
+The time of tetranacci (391) is :0.0
+
+
+The value of the tetranacci(392)-1361428032
+The time of tetranacci (392) is :0.0
+
+
+The value of the tetranacci(393)1704794305
+The time of tetranacci (393) is :0.0
+
+
+The value of the tetranacci(394)-2077841251
+The time of tetranacci (394) is :0.0
+
+
+The value of the tetranacci(395)-413011006
+The time of tetranacci (395) is :0.0
+
+
+The value of the tetranacci(396)2147481312
+The time of tetranacci (396) is :0.0
+
+
+The value of the tetranacci(397)1361423360
+The time of tetranacci (397) is :0.0
+
+
+The value of the tetranacci(398)1018052415
+The time of tetranacci (398) is :0.0
+
+
+The value of the tetranacci(399)-181021215
+The time of tetranacci (399) is :0.0
+
+
+The value of the tetranacci(400)50968576
+The time of tetranacci (400) is :0.0
+
+
+The value of the tetranacci(401)-2045544160
+The time of tetranacci (401) is :0.0
+
+
+The value of the tetranacci(402)-1157544384
+The time of tetranacci (402) is :0.0
+
+
+The value of the tetranacci(403)961826113
+The time of tetranacci (403) is :0.0
+
+
+The value of the tetranacci(404)2104673441
+The time of tetranacci (404) is :0.0
+
+
+The value of the tetranacci(405)-136588990
+The time of tetranacci (405) is :0.0
+
+
+The value of the tetranacci(406)1772366180
+The time of tetranacci (406) is :0.0
+
+
+The value of the tetranacci(407)407309448
+The time of tetranacci (407) is :0.0
+
+
+The value of the tetranacci(408)-147207217
+The time of tetranacci (408) is :0.0
+
+
+The value of the tetranacci(409)1895879421
+The time of tetranacci (409) is :0.0
+
+
+The value of the tetranacci(410)-366619464
+The time of tetranacci (410) is :0.0
+
+
+The value of the tetranacci(411)1789362188
+The time of tetranacci (411) is :0.0
+
+
+The value of the tetranacci(412)-1123552368
+The time of tetranacci (412) is :0.0
+
+
+The value of the tetranacci(413)-2099897519
+The time of tetranacci (413) is :0.0
+
+
+The value of the tetranacci(414)-1800707163
+The time of tetranacci (414) is :0.0
+
+
+The value of the tetranacci(415)1060172434
+The time of tetranacci (415) is :0.0
+
+
+The value of the tetranacci(416)330982680
+The time of tetranacci (416) is :0.0
+
+
+The value of the tetranacci(417)1785517728
+The time of tetranacci (417) is :0.0
+
+
+The value of the tetranacci(418)1375965679
+The time of tetranacci (418) is :0.001
+
+
+The value of the tetranacci(419)257671225
+The time of tetranacci (419) is :0.0
+
+
+The value of the tetranacci(420)-544829984
+The time of tetranacci (420) is :0.0
+
+
+The value of the tetranacci(421)-1420642648
+The time of tetranacci (421) is :0.0
+
+
+The value of the tetranacci(422)-331835728
+The time of tetranacci (422) is :0.0
+
+
+The value of the tetranacci(423)-2039637135
+The time of tetranacci (423) is :0.0
+
+
+The value of the tetranacci(424)-41978199
+The time of tetranacci (424) is :0.0
+
+
+The value of the tetranacci(425)460873586
+The time of tetranacci (425) is :0.0
+
+
+The value of the tetranacci(426)-1952577476
+The time of tetranacci (426) is :0.0
+
+
+The value of the tetranacci(427)721648072
+The time of tetranacci (427) is :0.0
+
+
+The value of the tetranacci(428)-812034017
+The time of tetranacci (428) is :0.0
+
+
+The value of the tetranacci(429)-1582089835
+The time of tetranacci (429) is :0.0
+
+
+The value of the tetranacci(430)669914040
+The time of tetranacci (430) is :0.0
+
+
+The value of the tetranacci(431)-1002561740
+The time of tetranacci (431) is :0.0
+
+
+The value of the tetranacci(432)1568195744
+The time of tetranacci (432) is :0.0
+
+
+The value of the tetranacci(433)-346541791
+The time of tetranacci (433) is :0.0
+
+
+The value of the tetranacci(434)889006253
+The time of tetranacci (434) is :0.0
+
+
+The value of the tetranacci(435)1108098466
+The time of tetranacci (435) is :0.0
+
+
+The value of the tetranacci(436)-1076208624
+The time of tetranacci (436) is :0.0
+
+
+The value of the tetranacci(437)574354304
+The time of tetranacci (437) is :0.0
+
+
+The value of the tetranacci(438)1495250399
+The time of tetranacci (438) is :0.0
+
+
+The value of the tetranacci(439)2101494545
+The time of tetranacci (439) is :0.0
+
+
+The value of the tetranacci(440)-1200076672
+The time of tetranacci (440) is :0.0
+
+
+The value of the tetranacci(441)-1323944720
+The time of tetranacci (441) is :0.0
+
+
+The value of the tetranacci(442)1072723552
+The time of tetranacci (442) is :0.0
+
+
+The value of the tetranacci(443)650196705
+The time of tetranacci (443) is :0.0
+
+
+The value of the tetranacci(444)-801101135
+The time of tetranacci (444) is :0.001
+
+
+The value of the tetranacci(445)-402125598
+The time of tetranacci (445) is :0.0
+
+
+The value of the tetranacci(446)519693524
+The time of tetranacci (446) is :0.0
+
+
+The value of the tetranacci(447)-33336504
+The time of tetranacci (447) is :0.0
+
+
+The value of the tetranacci(448)-716869713
+The time of tetranacci (448) is :0.0
+
+
+The value of the tetranacci(449)-632638291
+The time of tetranacci (449) is :0.0
+
+
+The value of the tetranacci(450)-863150984
+The time of tetranacci (450) is :0.0
+
+
+The value of the tetranacci(451)2048971804
+The time of tetranacci (451) is :0.0
+
+
+The value of the tetranacci(452)-163687184
+The time of tetranacci (452) is :0.0
+
+
+The value of the tetranacci(453)389495345
+The time of tetranacci (453) is :0.0
+
+
+The value of the tetranacci(454)1411628981
+The time of tetranacci (454) is :0.0
+
+
+The value of the tetranacci(455)-608558350
+The time of tetranacci (455) is :0.0
+
+
+The value of the tetranacci(456)1028878792
+The time of tetranacci (456) is :0.0
+
+
+The value of the tetranacci(457)-2073522528
+The time of tetranacci (457) is :0.0
+
+
+The value of the tetranacci(458)-241573105
+The time of tetranacci (458) is :0.0
+
+
+The value of the tetranacci(459)-1894775191
+The time of tetranacci (459) is :0.0
+
+
+The value of the tetranacci(460)1113975264
+The time of tetranacci (460) is :0.0
+
+
+The value of the tetranacci(461)1199071736
+The time of tetranacci (461) is :0.0
+
+
+The value of the tetranacci(462)176698704
+The time of tetranacci (462) is :0.0
+
+
+The value of the tetranacci(463)594970513
+The time of tetranacci (463) is :0.0
+
+
+The value of the tetranacci(464)-1210251079
+The time of tetranacci (464) is :0.0
+
+
+The value of the tetranacci(465)760489874
+The time of tetranacci (465) is :0.0
+
+
+The value of the tetranacci(466)321908012
+The time of tetranacci (466) is :0.0
+
+
+The value of the tetranacci(467)467117320
+The time of tetranacci (467) is :0.0
+
+
+The value of the tetranacci(468)339264127
+The time of tetranacci (468) is :0.0
+
+
+The value of the tetranacci(469)1888779333
+The time of tetranacci (469) is :0.0
+
+
+The value of the tetranacci(470)-1277898504
+The time of tetranacci (470) is :0.001
+
+
+The value of the tetranacci(471)1417262276
+The time of tetranacci (471) is :0.0
+
+
+The value of the tetranacci(472)-1927560064
+The time of tetranacci (472) is :0.0
+
+
+The value of the tetranacci(473)100583041
+The time of tetranacci (473) is :0.0
+
+
+The value of the tetranacci(474)-1687613251
+The time of tetranacci (474) is :0.0
+
+
+The value of the tetranacci(475)-2097327998
+The time of tetranacci (475) is :0.0
+
+
+The value of the tetranacci(476)-1316950976
+The time of tetranacci (476) is :0.0
+
+
+The value of the tetranacci(477)-706341888
+The time of tetranacci (477) is :0.0
+
+
+The value of the tetranacci(478)-1513266817
+The time of tetranacci (478) is :0.0
+
+
+The value of the tetranacci(479)-1338920383
+The time of tetranacci (479) is :0.0
+
+
+The value of the tetranacci(480)-580512768
+The time of tetranacci (480) is :0.0
+
+
+The value of the tetranacci(481)155925440
+The time of tetranacci (481) is :0.0
+
+
+The value of the tetranacci(482)1018192768
+The time of tetranacci (482) is :0.0
+
+
+The value of the tetranacci(483)-745314943
+The time of tetranacci (483) is :0.0
+
+
+The value of the tetranacci(484)-151709503
+The time of tetranacci (484) is :0.0
+
+
+The value of the tetranacci(485)277093762
+The time of tetranacci (485) is :0.0
+
+
+The value of the tetranacci(486)398262084
+The time of tetranacci (486) is :0.0
+
+
+The value of the tetranacci(487)-221668600
+The time of tetranacci (487) is :0.0
+
+
+The value of the tetranacci(488)301977743
+The time of tetranacci (488) is :0.0
+
+
+The value of the tetranacci(489)755664989
+The time of tetranacci (489) is :0.0
+
+
+The value of the tetranacci(490)1234236216
+The time of tetranacci (490) is :0.0
+
+
+The value of the tetranacci(491)2070210348
+The time of tetranacci (491) is :0.0
+
+
+The value of the tetranacci(492)67122000
+The time of tetranacci (492) is :0.0
+
+
+The value of the tetranacci(493)-167733743
+The time of tetranacci (493) is :0.0
+
+
+The value of the tetranacci(494)-1091132475
+The time of tetranacci (494) is :0.0
+
+
+The value of the tetranacci(495)878466130
+The time of tetranacci (495) is :0.0
+
+
+The value of the tetranacci(496)-313278088
+The time of tetranacci (496) is :0.0
+
+
+The value of the tetranacci(497)-693678176
+The time of tetranacci (497) is :0.0
+
+
+The value of the tetranacci(498)-1219622609
+The time of tetranacci (498) is :0.0
+
+
+The value of the tetranacci(499)-1348112743
+The time of tetranacci (499) is :0.001
+
+
+The value of the tetranacci(500)720275680
+The time of tetranacci (500) is :0.0
+
+
+The value of the tetranacci(501)1753829448
+The time of tetranacci (501) is :0.0
+
+
+The value of the tetranacci(502)-93630224
+The time of tetranacci (502) is :0.0
+
+
+The value of the tetranacci(503)1032362161
+The time of tetranacci (503) is :0.0
+
+
+The value of the tetranacci(504)-882130231
+The time of tetranacci (504) is :0.0
+
+
+The value of the tetranacci(505)1810431154
+The time of tetranacci (505) is :0.0
+
+
+The value of the tetranacci(506)1867032860
+The time of tetranacci (506) is :0.0
+
+
+The value of the tetranacci(507)-467271352
+The time of tetranacci (507) is :0.0
+
+
+The value of the tetranacci(508)-1966904865
+The time of tetranacci (508) is :0.0
+
+
+The value of the tetranacci(509)1243287797
+The time of tetranacci (509) is :0.0
+
+
+The value of the tetranacci(510)676144440
+The time of tetranacci (510) is :0.0
+
+
+The value of the tetranacci(511)-514743980
+The time of tetranacci (511) is :0.0
+
+
+The value of the tetranacci(512)-562216608
+The time of tetranacci (512) is :0.0
+
+
+The value of the tetranacci(513)842471649
+The time of tetranacci (513) is :0.0
+
+
+The value of the tetranacci(514)441655501
+The time of tetranacci (514) is :0.0
+
+
+The value of the tetranacci(515)207166562
+The time of tetranacci (515) is :0.0
+
+
+The value of the tetranacci(516)929077104
+The time of tetranacci (516) is :0.0
+
+
+The value of the tetranacci(517)-1874596480
+The time of tetranacci (517) is :0.0
+
+
+The value of the tetranacci(518)-296697313
+The time of tetranacci (518) is :0.0
+
+
+The value of the tetranacci(519)-1035050127
+The time of tetranacci (519) is :0.0
+
+
+The value of the tetranacci(520)2017700480
+The time of tetranacci (520) is :0.0
+
+
+The value of the tetranacci(521)-1188643440
+The time of tetranacci (521) is :0.0
+
+
+The value of the tetranacci(522)-502690400
+The time of tetranacci (522) is :0.0
+
+
+The value of the tetranacci(523)-708683487
+The time of tetranacci (523) is :0.0
+
+
+The value of the tetranacci(524)-382316847
+The time of tetranacci (524) is :0.0
+
+
+The value of the tetranacci(525)1512633122
+The time of tetranacci (525) is :0.0
+
+
+The value of the tetranacci(526)-81057612
+The time of tetranacci (526) is :0.0
+
+
+The value of the tetranacci(527)340575176
+The time of tetranacci (527) is :0.0
+
+
+The value of the tetranacci(528)1389833839
+The time of tetranacci (528) is :0.0
+
+
+The value of the tetranacci(529)-1132982771
+The time of tetranacci (529) is :0.0
+
+
+The value of the tetranacci(530)516368632
+The time of tetranacci (530) is :0.0
+
+
+The value of the tetranacci(531)1113794876
+The time of tetranacci (531) is :0.0
+
+
+The value of the tetranacci(532)1887014576
+The time of tetranacci (532) is :0.0
+
+
+The value of the tetranacci(533)-1910771983
+The time of tetranacci (533) is :0.0
+
+
+The value of the tetranacci(534)1606406101
+The time of tetranacci (534) is :0.0
+
+
+The value of the tetranacci(535)-1598523726
+The time of tetranacci (535) is :0.0
+
+
+The value of the tetranacci(536)-15875032
+The time of tetranacci (536) is :0.0
+
+
+The value of the tetranacci(537)-1918764640
+The time of tetranacci (537) is :0.0
+
+
+The value of the tetranacci(538)-1926757297
+The time of tetranacci (538) is :0.0
+
+
+The value of the tetranacci(539)-1164953399
+The time of tetranacci (539) is :0.0
+
+
+The value of the tetranacci(540)-731383072
+The time of tetranacci (540) is :0.0
+
+
+The value of the tetranacci(541)-1446891112
+The time of tetranacci (541) is :0.0
+
+
+The value of the tetranacci(542)-975017584
+The time of tetranacci (542) is :0.0
+
+
+The value of the tetranacci(543)-23277871
+The time of tetranacci (543) is :0.0
+
+
+The value of the tetranacci(544)1118397657
+The time of tetranacci (544) is :0.0
+
+
+The value of the tetranacci(545)-1326788910
+The time of tetranacci (545) is :0.0
+
+
+The value of the tetranacci(546)-1206686708
+The time of tetranacci (546) is :0.0
+
+
+The value of the tetranacci(547)-1438355832
+The time of tetranacci (547) is :0.0
+
+
+The value of the tetranacci(548)1441533503
+The time of tetranacci (548) is :0.0
+
+
+The value of the tetranacci(549)1764669349
+The time of tetranacci (549) is :0.0
+
+
+The value of the tetranacci(550)561160312
+The time of tetranacci (550) is :0.0
+
+
+The value of the tetranacci(551)-1965959964
+The time of tetranacci (551) is :0.0
+
+
+The value of the tetranacci(552)1801403200
+The time of tetranacci (552) is :0.0
+
+
+The value of the tetranacci(553)-2133694399
+The time of tetranacci (553) is :0.0
+
+
+The value of the tetranacci(554)-1737090851
+The time of tetranacci (554) is :0.0
+
+
+The value of the tetranacci(555)259625282
+The time of tetranacci (555) is :0.0
+
+
+The value of the tetranacci(556)-1809756768
+The time of tetranacci (556) is :0.0
+
+
+The value of the tetranacci(557)-1125949440
+The time of tetranacci (557) is :0.0
+
+
+The value of the tetranacci(558)-118204481
+The time of tetranacci (558) is :0.0
+
+
+The value of the tetranacci(559)1500681889
+The time of tetranacci (559) is :0.0
+
+
+The value of the tetranacci(560)-1553228800
+The time of tetranacci (560) is :0.0
+
+
+The value of the tetranacci(561)-1296700832
+The time of tetranacci (561) is :0.0
+
+
+The value of the tetranacci(562)-1467452224
+The time of tetranacci (562) is :0.0
+
+
+The value of the tetranacci(563)1478267329
+The time of tetranacci (563) is :0.0
+
+
+The value of the tetranacci(564)1455852769
+The time of tetranacci (564) is :0.0
+
+
+The value of the tetranacci(565)169967042
+The time of tetranacci (565) is :0.0
+
+
+The value of the tetranacci(566)1636634916
+The time of tetranacci (566) is :0.0
+
+
+The value of the tetranacci(567)445754760
+The time of tetranacci (567) is :0.0
+
+
+The value of the tetranacci(568)-586757809
+The time of tetranacci (568) is :0.0
+
+
+The value of the tetranacci(569)1665598909
+The time of tetranacci (569) is :0.0
+
+
+The value of the tetranacci(570)-1133736520
+The time of tetranacci (570) is :0.0
+
+
+The value of the tetranacci(571)390859340
+The time of tetranacci (571) is :0.0
+
+
+The value of the tetranacci(572)335963920
+The time of tetranacci (572) is :0.0
+
+
+The value of the tetranacci(573)1258685649
+The time of tetranacci (573) is :0.0
+
+
+The value of the tetranacci(574)851772389
+The time of tetranacci (574) is :0.0
+
+
+The value of the tetranacci(575)-1457685998
+The time of tetranacci (575) is :0.0
+
+
+The value of the tetranacci(576)988735960
+The time of tetranacci (576) is :0.0
+
+
+The value of the tetranacci(577)1641508000
+The time of tetranacci (577) is :0.0
+
+
+The value of the tetranacci(578)2024330351
+The time of tetranacci (578) is :0.0
+
+
+The value of the tetranacci(579)-1098078983
+The time of tetranacci (579) is :0.0
+
+
+The value of the tetranacci(580)-738471968
+The time of tetranacci (580) is :0.0
+
+
+The value of the tetranacci(581)1829287400
+The time of tetranacci (581) is :0.0
+
+
+The value of the tetranacci(582)2017066800
+The time of tetranacci (582) is :0.0
+
+
+The value of the tetranacci(583)2009803249
+The time of tetranacci (583) is :0.0
+
+
+The value of the tetranacci(584)822718185
+The time of tetranacci (584) is :0.0
+
+
+The value of the tetranacci(585)-1911058958
+The time of tetranacci (585) is :0.0
+
+
+The value of the tetranacci(586)-1356438020
+The time of tetranacci (586) is :0.0
+
+
+The value of the tetranacci(587)-434975544
+The time of tetranacci (587) is :0.0
+
+
+The value of the tetranacci(588)1415212959
+The time of tetranacci (588) is :0.0
+
+
+The value of the tetranacci(589)2007707733
+The time of tetranacci (589) is :0.0
+
+
+The value of the tetranacci(590)1631507128
+The time of tetranacci (590) is :0.0
+
+
+The value of the tetranacci(591)324484980
+The time of tetranacci (591) is :0.0
+
+
+The value of the tetranacci(592)1083945504
+The time of tetranacci (592) is :0.0
+
+
+The value of the tetranacci(593)752678049
+The time of tetranacci (593) is :0.0
+
+
+The value of the tetranacci(594)-502351635
+The time of tetranacci (594) is :0.0
+
+
+The value of the tetranacci(595)1658756898
+The time of tetranacci (595) is :0.0
+
+
+The value of the tetranacci(596)-1301938480
+The time of tetranacci (596) is :0.0
+
+
+The value of the tetranacci(597)607144832
+The time of tetranacci (597) is :0.0
+
+
+The value of the tetranacci(598)461611615
+The time of tetranacci (598) is :0.0
+
+
+The value of the tetranacci(599)1425574865
+The time of tetranacci (599) is :0.0
+
+
+The value of the tetranacci(600)1192392832
+The time of tetranacci (600) is :0.0
+
+
+The value of the tetranacci(601)-608243152
+The time of tetranacci (601) is :0.0
+
+
+The value of the tetranacci(602)-1823631136
+The time of tetranacci (602) is :0.0
+
+
+The value of the tetranacci(603)186093409
+The time of tetranacci (603) is :0.0
+
+
+The value of the tetranacci(604)-1053388047
+The time of tetranacci (604) is :0.0
+
+
+The value of the tetranacci(605)995798370
+The time of tetranacci (605) is :0.0
+
+
+The value of the tetranacci(606)-1695127404
+The time of tetranacci (606) is :0.0
+
+
+The value of the tetranacci(607)-1566623672
+The time of tetranacci (607) is :0.0
+
+
+The value of the tetranacci(608)975626543
+The time of tetranacci (608) is :0.0
+
+
+The value of the tetranacci(609)-1290326163
+The time of tetranacci (609) is :0.0
+
+
+The value of the tetranacci(610)718516600
+The time of tetranacci (610) is :0.0
+
+
+The value of the tetranacci(611)-1162806692
+The time of tetranacci (611) is :0.0
+
+
+The value of the tetranacci(612)-758989712
+The time of tetranacci (612) is :0.0
+
+
+The value of the tetranacci(613)1801361329
+The time of tetranacci (613) is :0.0
+
+
+The value of the tetranacci(614)598081525
+The time of tetranacci (614) is :0.0
+
+
+The value of the tetranacci(615)477646450
+The time of tetranacci (615) is :0.0
+
+
+The value of the tetranacci(616)2118099592
+The time of tetranacci (616) is :0.0
+
+
+The value of the tetranacci(617)700221600
+The time of tetranacci (617) is :0.0
+
+
+The value of the tetranacci(618)-400918129
+The time of tetranacci (618) is :0.0
+
+
+The value of the tetranacci(619)-1399917783
+The time of tetranacci (619) is :0.0
+
+
+The value of the tetranacci(620)1017485280
+The time of tetranacci (620) is :0.0
+
+
+The value of the tetranacci(621)-83129032
+The time of tetranacci (621) is :0.0
+
+
+The value of the tetranacci(622)-866479664
+The time of tetranacci (622) is :0.0
+
+
+The value of the tetranacci(623)-1332041199
+The time of tetranacci (623) is :0.0
+
+
+The value of the tetranacci(624)-1264164615
+The time of tetranacci (624) is :0.0
+
+
+The value of the tetranacci(625)749152786
+The time of tetranacci (625) is :0.0
+
+
+The value of the tetranacci(626)1581434604
+The time of tetranacci (626) is :0.0
+
+
+The value of the tetranacci(627)-265618424
+The time of tetranacci (627) is :0.0
+
+
+The value of the tetranacci(628)800804351
+The time of tetranacci (628) is :0.0
+
+
+The value of the tetranacci(629)-1429193979
+The time of tetranacci (629) is :0.0
+
+
+The value of the tetranacci(630)687426552
+The time of tetranacci (630) is :0.0
+
+
+The value of the tetranacci(631)-206581500
+The time of tetranacci (631) is :0.0
+
+
+The value of the tetranacci(632)-147544576
+The time of tetranacci (632) is :0.0
+
+
+The value of the tetranacci(633)-1095893503
+The time of tetranacci (633) is :0.0
+
+
+The value of the tetranacci(634)-762593027
+The time of tetranacci (634) is :0.0
+
+
+The value of the tetranacci(635)2082354690
+The time of tetranacci (635) is :0.0
+
+
+The value of the tetranacci(636)76323584
+The time of tetranacci (636) is :0.0
+
+
+The value of the tetranacci(637)300191744
+The time of tetranacci (637) is :0.0
+
+
+The value of the tetranacci(638)1696276991
+The time of tetranacci (638) is :0.0
+
+
+The value of the tetranacci(639)-139820287
+The time of tetranacci (639) is :0.0
+
+
+The value of the tetranacci(640)1932972032
+The time of tetranacci (640) is :0.0
+
+
+The value of the tetranacci(641)-505346816
+The time of tetranacci (641) is :0.0
+
+
+The value of the tetranacci(642)-1310885376
+The time of tetranacci (642) is :0.0
+
+
+The value of the tetranacci(643)-23080447
+The time of tetranacci (643) is :0.0
+
+
+The value of the tetranacci(644)93659393
+The time of tetranacci (644) is :0.0
+
+
+The value of the tetranacci(645)-1745653246
+The time of tetranacci (645) is :0.0
+
+
+The value of the tetranacci(646)1309007620
+The time of tetranacci (646) is :0.0
+
+
+The value of the tetranacci(647)-366066680
+The time of tetranacci (647) is :0.0
+
+
+The value of the tetranacci(648)-709052913
+The time of tetranacci (648) is :0.0
+
+
+The value of the tetranacci(649)-1511765219
+The time of tetranacci (649) is :0.0
+
+
+The value of the tetranacci(650)-1277877192
+The time of tetranacci (650) is :0.0
+
+
+The value of the tetranacci(651)430205292
+The time of tetranacci (651) is :0.0
+
+
+The value of the tetranacci(652)1226477264
+The time of tetranacci (652) is :0.0
+
+
+The value of the tetranacci(653)-1132959855
+The time of tetranacci (653) is :0.0
+
+
+The value of the tetranacci(654)-754154491
+The time of tetranacci (654) is :0.0
+
+
+The value of the tetranacci(655)-230431790
+The time of tetranacci (655) is :0.0
+
+
+The value of the tetranacci(656)-891068872
+The time of tetranacci (656) is :0.0
+
+
+The value of the tetranacci(657)1286352288
+The time of tetranacci (657) is :0.0
+
+
+The value of the tetranacci(658)-589302865
+The time of tetranacci (658) is :0.0
+
+
+The value of the tetranacci(659)-424451239
+The time of tetranacci (659) is :0.0
+
+
+The value of the tetranacci(660)-618470688
+The time of tetranacci (660) is :0.0
+
+
+The value of the tetranacci(661)-345872504
+The time of tetranacci (661) is :0.0
+
+
+The value of the tetranacci(662)-1978097296
+The time of tetranacci (662) is :0.0
+
+
+The value of the tetranacci(663)928075569
+The time of tetranacci (663) is :0.0
+
+
+The value of the tetranacci(664)-2014364919
+The time of tetranacci (664) is :0.0
+
+
+The value of the tetranacci(665)884708146
+The time of tetranacci (665) is :0.0
+
+
+The value of the tetranacci(666)2115288796
+The time of tetranacci (666) is :0.0
+
+
+The value of the tetranacci(667)1913707592
+The time of tetranacci (667) is :0.0
+
+
+The value of the tetranacci(668)-1395627681
+The time of tetranacci (668) is :0.0
+
+
+The value of the tetranacci(669)-776890443
+The time of tetranacci (669) is :0.0
+
+
+The value of the tetranacci(670)1856478264
+The time of tetranacci (670) is :0.0
+
+
+The value of the tetranacci(671)1597667732
+The time of tetranacci (671) is :0.0
+
+
+The value of the tetranacci(672)1281627872
+The time of tetranacci (672) is :0.0
+
+
+The value of the tetranacci(673)-336083871
+The time of tetranacci (673) is :0.0
+
+
+The value of the tetranacci(674)104722701
+The time of tetranacci (674) is :0.0
+
+
+The value of the tetranacci(675)-1647032862
+The time of tetranacci (675) is :0.0
+
+
+The value of the tetranacci(676)-596766160
+The time of tetranacci (676) is :0.0
+
+
+The value of the tetranacci(677)1819807104
+The time of tetranacci (677) is :0.0
+
+
+The value of the tetranacci(678)-319269217
+The time of tetranacci (678) is :0.0
+
+
+The value of the tetranacci(679)-743261135
+The time of tetranacci (679) is :0.0
+
+
+The value of the tetranacci(680)160510592
+The time of tetranacci (680) is :0.0
+
+
+The value of the tetranacci(681)917787344
+The time of tetranacci (681) is :0.0
+
+
+The value of the tetranacci(682)15767584
+The time of tetranacci (682) is :0.0
+
+
+The value of the tetranacci(683)350804385
+The time of tetranacci (683) is :0.0
+
+
+The value of the tetranacci(684)1444869905
+The time of tetranacci (684) is :0.0
+
+
+The value of the tetranacci(685)-1565738078
+The time of tetranacci (685) is :0.0
+
+
+The value of the tetranacci(686)245703796
+The time of tetranacci (686) is :0.0
+
+
+The value of the tetranacci(687)475640008
+The time of tetranacci (687) is :0.0
+
+
+The value of the tetranacci(688)600475631
+The time of tetranacci (688) is :0.0
+
+
+The value of the tetranacci(689)-243918643
+The time of tetranacci (689) is :0.0
+
+
+The value of the tetranacci(690)1077900792
+The time of tetranacci (690) is :0.0
+
+
+The value of the tetranacci(691)1910097788
+The time of tetranacci (691) is :0.0
+
+
+The value of the tetranacci(692)-950411728
+The time of tetranacci (692) is :0.0
+
+
+The value of the tetranacci(693)1793668209
+The time of tetranacci (693) is :0.0
+
+
+The value of the tetranacci(694)-463712235
+The time of tetranacci (694) is :0.0
+
+
+The value of the tetranacci(695)-2005325262
+The time of tetranacci (695) is :0.0
+
+
+The value of the tetranacci(696)-1625781016
+The time of tetranacci (696) is :0.0
+
+
+The value of the tetranacci(697)1993816992
+The time of tetranacci (697) is :0.0
+
+
+The value of the tetranacci(698)-2101001521
+The time of tetranacci (698) is :0.0
+
+
+The value of the tetranacci(699)556676489
+The time of tetranacci (699) is :0.0
+
+
+The value of the tetranacci(700)-1176289056
+The time of tetranacci (700) is :0.0
+
+
+The value of the tetranacci(701)-726797096
+The time of tetranacci (701) is :0.0
+
+
+The value of the tetranacci(702)847556112
+The time of tetranacci (702) is :0.0
+
+
+The value of the tetranacci(703)-498853551
+The time of tetranacci (703) is :0.0
+
+
+The value of the tetranacci(704)-1554383591
+The time of tetranacci (704) is :0.0
+
+
+The value of the tetranacci(705)-1932478126
+The time of tetranacci (705) is :0.0
+
+
+The value of the tetranacci(706)1156808140
+The time of tetranacci (706) is :0.0
+
+
+The value of the tetranacci(707)1466060168
+The time of tetranacci (707) is :0.0
+
+
+The value of the tetranacci(708)-863993409
+The time of tetranacci (708) is :0.0
+
+
+The value of the tetranacci(709)-173603227
+The time of tetranacci (709) is :0.0
+
+
+The value of the tetranacci(710)1585271672
+The time of tetranacci (710) is :0.0
+
+
+The value of the tetranacci(711)2013735204
+The time of tetranacci (711) is :0.0
+
+
+The value of the tetranacci(712)-1733557056
+The time of tetranacci (712) is :0.0
+
+
+The value of the tetranacci(713)1691846593
+The time of tetranacci (713) is :0.0
+
+
+The value of the tetranacci(714)-737670883
+The time of tetranacci (714) is :0.0
+
+
+The value of the tetranacci(715)1234353858
+The time of tetranacci (715) is :0.0
+
+
+The value of the tetranacci(716)454972512
+The time of tetranacci (716) is :0.0
+
+
+The value of the tetranacci(717)-1651465216
+The time of tetranacci (717) is :0.0
+
+
+The value of the tetranacci(718)-699809729
+The time of tetranacci (718) is :0.0
+
+
+The value of the tetranacci(719)-661948575
+The time of tetranacci (719) is :0.0
+
+
+The value of the tetranacci(720)1736716288
+The time of tetranacci (720) is :0.0
+
+
+The value of the tetranacci(721)-1276507232
+The time of tetranacci (721) is :0.0
+
+
+The value of the tetranacci(722)-901549248
+The time of tetranacci (722) is :0.0
+
+
+The value of the tetranacci(723)-1103288767
+The time of tetranacci (723) is :0.0
+
+
+The value of the tetranacci(724)-1544628959
+The time of tetranacci (724) is :0.0
+
+
+The value of the tetranacci(725)-531006910
+The time of tetranacci (725) is :0.0
+
+
+The value of the tetranacci(726)214493412
+The time of tetranacci (726) is :0.0
+
+
+The value of the tetranacci(727)1330536072
+The time of tetranacci (727) is :0.0
+
+
+The value of the tetranacci(728)-530606385
+The time of tetranacci (728) is :0.001
+
+
+The value of the tetranacci(729)483416189
+The time of tetranacci (729) is :0.0
+
+
+The value of the tetranacci(730)1497839288
+The time of tetranacci (730) is :0.0
+
+
+The value of the tetranacci(731)-1513782132
+The time of tetranacci (731) is :0.0
+
+
+The value of the tetranacci(732)-63133040
+The time of tetranacci (732) is :0.0
+
+
+The value of the tetranacci(733)404340305
+The time of tetranacci (733) is :0.0
+
+
+The value of the tetranacci(734)325264421
+The time of tetranacci (734) is :0.0
+
+
+The value of the tetranacci(735)-847310446
+The time of tetranacci (735) is :0.0
+
+
+The value of the tetranacci(736)-180838760
+The time of tetranacci (736) is :0.0
+
+
+The value of the tetranacci(737)-298544480
+The time of tetranacci (737) is :0.0
+
+
+The value of the tetranacci(738)-1001429265
+The time of tetranacci (738) is :0.0
+
+
+The value of the tetranacci(739)1966844345
+The time of tetranacci (739) is :0.0
+
+
+The value of the tetranacci(740)486031840
+The time of tetranacci (740) is :0.0
+
+
+The value of the tetranacci(741)1152902440
+The time of tetranacci (741) is :0.0
+
+
+The value of the tetranacci(742)-1690617936
+The time of tetranacci (742) is :0.0
+
+
+The value of the tetranacci(743)1915160689
+The time of tetranacci (743) is :0.0
+
+
+The value of the tetranacci(744)1863477033
+The time of tetranacci (744) is :0.0
+
+
+The value of the tetranacci(745)-1054045070
+The time of tetranacci (745) is :0.0
+
+
+The value of the tetranacci(746)1033974716
+The time of tetranacci (746) is :0.0
+
+
+The value of the tetranacci(747)-536399928
+The time of tetranacci (747) is :0.0
+
+
+The value of the tetranacci(748)1307006751
+The time of tetranacci (748) is :0.0
+
+
+The value of the tetranacci(749)750536469
+The time of tetranacci (749) is :0.0
+
+
+The value of the tetranacci(750)-1739849288
+The time of tetranacci (750) is :0.0
+
+
+The value of the tetranacci(751)-218705996
+The time of tetranacci (751) is :0.0
+
+
+The value of the tetranacci(752)98987936
+The time of tetranacci (752) is :0.0
+
+
+The value of the tetranacci(753)-1109030879
+The time of tetranacci (753) is :0.0
+
+
+The value of the tetranacci(754)1326369069
+The time of tetranacci (754) is :0.0
+
+
+The value of the tetranacci(755)97620130
+The time of tetranacci (755) is :0.0
+
+
+The value of the tetranacci(756)413946256
+The time of tetranacci (756) is :0.0
+
+
+The value of the tetranacci(757)728904576
+The time of tetranacci (757) is :0.0
+
+
+The value of the tetranacci(758)-1728127265
+The time of tetranacci (758) is :0.0
+
+
+The value of the tetranacci(759)-487656303
+The time of tetranacci (759) is :0.0
+
+
+The value of the tetranacci(760)-1072932736
+The time of tetranacci (760) is :0.0
+
+
+The value of the tetranacci(761)1735155568
+The time of tetranacci (761) is :0.0
+
+
+The value of the tetranacci(762)-1553560736
+The time of tetranacci (762) is :0.0
+
+
+The value of the tetranacci(763)-1378994207
+The time of tetranacci (763) is :0.001
+
+
+The value of the tetranacci(764)2024635185
+The time of tetranacci (764) is :0.0
+
+
+The value of the tetranacci(765)827235810
+The time of tetranacci (765) is :0.0
+
+
+The value of the tetranacci(766)-80683948
+The time of tetranacci (766) is :0.0
+
+
+The value of the tetranacci(767)1392192840
+The time of tetranacci (767) is :0.0
+
+
+The value of the tetranacci(768)-131587409
+The time of tetranacci (768) is :0.0
+
+
+The value of the tetranacci(769)2007157293
+The time of tetranacci (769) is :0.0
+
+
+The value of the tetranacci(770)-1107888520
+The time of tetranacci (770) is :0.0
+
+
+The value of the tetranacci(771)-2135093092
+The time of tetranacci (771) is :0.0
+
+
+The value of the tetranacci(772)-1367411728
+The time of tetranacci (772) is :0.0
+
+
+The value of the tetranacci(773)1691731249
+The time of tetranacci (773) is :0.0
+
+
+The value of the tetranacci(774)1376305205
+The time of tetranacci (774) is :0.0
+
+
+The value of the tetranacci(775)-434468366
+The time of tetranacci (775) is :0.0
+
+
+The value of the tetranacci(776)1266156360
+The time of tetranacci (776) is :0.0
+
+
+The value of the tetranacci(777)-395242848
+The time of tetranacci (777) is :0.0
+
+
+The value of the tetranacci(778)1812750351
+The time of tetranacci (778) is :0.0
+
+
+The value of the tetranacci(779)-2045771799
+The time of tetranacci (779) is :0.0
+
+
+The value of the tetranacci(780)637892064
+The time of tetranacci (780) is :0.0
+
+
+The value of the tetranacci(781)9627768
+The time of tetranacci (781) is :0.0
+
+
+The value of the tetranacci(782)414498384
+The time of tetranacci (782) is :0.0
+
+
+The value of the tetranacci(783)-983753583
+The time of tetranacci (783) is :0.0
+
+
+The value of the tetranacci(784)78264633
+The time of tetranacci (784) is :0.0
+
+
+The value of the tetranacci(785)-481362798
+The time of tetranacci (785) is :0.0
+
+
+The value of the tetranacci(786)-972353364
+The time of tetranacci (786) is :0.0
+
+
+The value of the tetranacci(787)1935762184
+The time of tetranacci (787) is :0.0
+
+
+The value of the tetranacci(788)560310655
+The time of tetranacci (788) is :0.0
+
+
+The value of the tetranacci(789)1042356677
+The time of tetranacci (789) is :0.0
+
+
+The value of the tetranacci(790)-1728891144
+The time of tetranacci (790) is :0.0
+
+
+The value of the tetranacci(791)1809538372
+The time of tetranacci (791) is :0.0
+
+
+The value of the tetranacci(792)1683314560
+The time of tetranacci (792) is :0.0
+
+
+The value of the tetranacci(793)-1488648831
+The time of tetranacci (793) is :0.0
+
+
+The value of the tetranacci(794)275312957
+The time of tetranacci (794) is :0.0
+
+
+The value of the tetranacci(795)-2015450238
+The time of tetranacci (795) is :0.0
+
+
+The value of the tetranacci(796)-1545471552
+The time of tetranacci (796) is :0.0
+
+
+The value of the tetranacci(797)-479290368
+The time of tetranacci (797) is :0.0
+
+
+The value of the tetranacci(798)530068095
+The time of tetranacci (798) is :0.0
+
+
+The value of the tetranacci(799)784823233
+The time of tetranacci (799) is :0.0
+
+
+The value of the tetranacci(800)-709870592
+The time of tetranacci (800) is :0.0
+
+
+The value of the tetranacci(801)125730368
+The time of tetranacci (801) is :0.0
+
+
+The value of the tetranacci(802)730751104
+The time of tetranacci (802) is :0.0
+
+
+The value of the tetranacci(803)931434113
+The time of tetranacci (803) is :0.0
+
+
+The value of the tetranacci(804)1078044993
+The time of tetranacci (804) is :0.0
+
+
+The value of the tetranacci(805)-1429006718
+The time of tetranacci (805) is :0.0
+
+
+The value of the tetranacci(806)1311223492
+The time of tetranacci (806) is :0.0
+
+
+The value of the tetranacci(807)1891695880
+The time of tetranacci (807) is :0.0
+
+
+The value of the tetranacci(808)-1443009649
+The time of tetranacci (808) is :0.0
+
+
+The value of the tetranacci(809)330903005
+The time of tetranacci (809) is :0.0
+
+
+The value of the tetranacci(810)2090812728
+The time of tetranacci (810) is :0.0
+
+
+The value of the tetranacci(811)-1424565332
+The time of tetranacci (811) is :0.0
+
+
+The value of the tetranacci(812)-445859248
+The time of tetranacci (812) is :0.0
+
+
+The value of the tetranacci(813)551291153
+The time of tetranacci (813) is :0.0
+
+
+The value of the tetranacci(814)771679301
+The time of tetranacci (814) is :0.0
+
+
+The value of the tetranacci(815)-547454126
+The time of tetranacci (815) is :0.0
+
+
+The value of the tetranacci(816)329657080
+The time of tetranacci (816) is :0.0
+
+
+The value of the tetranacci(817)1105173408
+The time of tetranacci (817) is :0.0
+
+
+The value of the tetranacci(818)1659055663
+The time of tetranacci (818) is :0.0
+
+
+The value of the tetranacci(819)-1748535271
+The time of tetranacci (819) is :0.0
+
+
+The value of the tetranacci(820)1345350880
+The time of tetranacci (820) is :0.0
+
+
+The value of the tetranacci(821)-1933922616
+The time of tetranacci (821) is :0.0
+
+
+The value of the tetranacci(822)-678051344
+The time of tetranacci (822) is :0.0
+
+
+The value of the tetranacci(823)1279808945
+The time of tetranacci (823) is :0.0
+
+
+The value of the tetranacci(824)13185865
+The time of tetranacci (824) is :0.0
+
+
+The value of the tetranacci(825)-1318979150
+The time of tetranacci (825) is :0.0
+
+
+The value of the tetranacci(826)-704035684
+The time of tetranacci (826) is :0.0
+
+
+The value of the tetranacci(827)-730020024
+The time of tetranacci (827) is :0.0
+
+
+The value of the tetranacci(828)1555118303
+The time of tetranacci (828) is :0.0
+
+
+The value of the tetranacci(829)-1197916555
+The time of tetranacci (829) is :0.0
+
+
+The value of the tetranacci(830)-1076853960
+The time of tetranacci (830) is :0.0
+
+
+The value of the tetranacci(831)-1449672236
+The time of tetranacci (831) is :0.0
+
+
+The value of the tetranacci(832)2125642848
+The time of tetranacci (832) is :0.0
+
+
+The value of the tetranacci(833)-1598799903
+The time of tetranacci (833) is :0.0
+
+
+The value of the tetranacci(834)-1999683251
+The time of tetranacci (834) is :0.0
+
+
+The value of the tetranacci(835)1372454754
+The time of tetranacci (835) is :0.0
+
+
+The value of the tetranacci(836)-100385552
+The time of tetranacci (836) is :0.0
+
+
+The value of the tetranacci(837)1968553344
+The time of tetranacci (837) is :0.0
+
+
+The value of the tetranacci(838)1240939295
+The time of tetranacci (838) is :0.0
+
+
+The value of the tetranacci(839)186594545
+The time of tetranacci (839) is :0.0
+
+
+The value of the tetranacci(840)-999265664
+The time of tetranacci (840) is :0.0
+
+
+The value of the tetranacci(841)-1898145776
+The time of tetranacci (841) is :0.0
+
+
+The value of the tetranacci(842)-1469877600
+The time of tetranacci (842) is :0.0
+
+
+The value of the tetranacci(843)114272801
+The time of tetranacci (843) is :0.0
+
+
+The value of the tetranacci(844)41951057
+The time of tetranacci (844) is :0.0
+
+
+The value of the tetranacci(845)1083167778
+The time of tetranacci (845) is :0.0
+
+
+The value of the tetranacci(846)-230485964
+The time of tetranacci (846) is :0.0
+
+
+The value of the tetranacci(847)1008905672
+The time of tetranacci (847) is :0.0
+
+
+The value of the tetranacci(848)1903538543
+The time of tetranacci (848) is :0.0
+
+
+The value of the tetranacci(849)-529841267
+The time of tetranacci (849) is :0.0
+
+
+The value of the tetranacci(850)-2142850312
+The time of tetranacci (850) is :0.0
+
+
+The value of the tetranacci(851)239752636
+The time of tetranacci (851) is :0.0
+
+
+The value of the tetranacci(852)-529400400
+The time of tetranacci (852) is :0.0
+
+
+The value of the tetranacci(853)1332627953
+The time of tetranacci (853) is :0.0
+
+
+The value of the tetranacci(854)-1099870123
+The time of tetranacci (854) is :0.0
+
+
+The value of the tetranacci(855)-56889934
+The time of tetranacci (855) is :0.0
+
+
+The value of the tetranacci(856)-353532504
+The time of tetranacci (856) is :0.0
+
+
+The value of the tetranacci(857)-177664608
+The time of tetranacci (857) is :0.0
+
+
+The value of the tetranacci(858)-1687957169
+The time of tetranacci (858) is :0.0
+
+
+The value of the tetranacci(859)2018923081
+The time of tetranacci (859) is :0.0
+
+
+The value of the tetranacci(860)-200231200
+The time of tetranacci (860) is :0.0
+
+
+The value of the tetranacci(861)-46929896
+The time of tetranacci (861) is :0.0
+
+
+The value of the tetranacci(862)83804816
+The time of tetranacci (862) is :0.0
+
+
+The value of the tetranacci(863)1855566801
+The time of tetranacci (863) is :0.0
+
+
+The value of the tetranacci(864)1692210521
+The time of tetranacci (864) is :0.0
+
+
+The value of the tetranacci(865)-710315054
+The time of tetranacci (865) is :0.0
+
+
+The value of the tetranacci(866)-1373700212
+The time of tetranacci (866) is :0.0
+
+
+The value of the tetranacci(867)1463762056
+The time of tetranacci (867) is :0.0
+
+
+The value of the tetranacci(868)1071957311
+The time of tetranacci (868) is :0.0
+
+
+The value of the tetranacci(869)451704101
+The time of tetranacci (869) is :0.0
+
+
+The value of the tetranacci(870)1613723256
+The time of tetranacci (870) is :0.0
+
+
+The value of the tetranacci(871)306179428
+The time of tetranacci (871) is :0.0
+
+
+The value of the tetranacci(872)-851403200
+The time of tetranacci (872) is :0.0
+
+
+The value of the tetranacci(873)1520203585
+The time of tetranacci (873) is :0.0
+
+
+The value of the tetranacci(874)-1706264227
+The time of tetranacci (874) is :0.0
+
+
+The value of the tetranacci(875)-731284414
+The time of tetranacci (875) is :0.0
+
+
+The value of the tetranacci(876)-1768748256
+The time of tetranacci (876) is :0.0
+
+
+The value of the tetranacci(877)1608873984
+The time of tetranacci (877) is :0.0
+
+
+The value of the tetranacci(878)1697544383
+The time of tetranacci (878) is :0.0
+
+
+The value of the tetranacci(879)806385697
+The time of tetranacci (879) is :0.0
+
+
+The value of the tetranacci(880)-1950911488
+The time of tetranacci (880) is :0.0
+
+
+The value of the tetranacci(881)-2133074720
+The time of tetranacci (881) is :0.0
+
+
+The value of the tetranacci(882)-1580056128
+The time of tetranacci (882) is :0.0
+
+
+The value of the tetranacci(883)-562689343
+The time of tetranacci (883) is :0.0
+
+
+The value of the tetranacci(884)-1931764383
+The time of tetranacci (884) is :0.0
+
+
+The value of the tetranacci(885)-1912617278
+The time of tetranacci (885) is :0.0
+
+
+The value of the tetranacci(886)-1692159836
+The time of tetranacci (886) is :0.0
+
+
+The value of the tetranacci(887)-1804263544
+The time of tetranacci (887) is :0.0
+
+
+The value of the tetranacci(888)1249129551
+The time of tetranacci (888) is :0.0
+
+
+The value of the tetranacci(889)135056189
+The time of tetranacci (889) is :0.0
+
+
+The value of the tetranacci(890)-2112237640
+The time of tetranacci (890) is :0.0
+
+
+The value of the tetranacci(891)1762651852
+The time of tetranacci (891) is :0.0
+
+
+The value of the tetranacci(892)1034599952
+The time of tetranacci (892) is :0.0
+
+
+The value of the tetranacci(893)820070353
+The time of tetranacci (893) is :0.0
+
+
+The value of the tetranacci(894)1505084517
+The time of tetranacci (894) is :0.0
+
+
+The value of the tetranacci(895)827439378
+The time of tetranacci (895) is :0.0
+
+
+The value of the tetranacci(896)-107773096
+The time of tetranacci (896) is :0.0
+
+
+The value of the tetranacci(897)-1250146144
+The time of tetranacci (897) is :0.0
+
+
+The value of the tetranacci(898)974604655
+The time of tetranacci (898) is :0.0
+
+
+The value of the tetranacci(899)444124793
+The time of tetranacci (899) is :0.0
+
+
+The value of the tetranacci(900)60810208
+The time of tetranacci (900) is :0.0
+
+
+The value of the tetranacci(901)229393512
+The time of tetranacci (901) is :0.0
+
+
+The value of the tetranacci(902)1708933168
+The time of tetranacci (902) is :0.0
+
+
+The value of the tetranacci(903)-1851705615
+The time of tetranacci (903) is :0.0
+
+
+The value of the tetranacci(904)147431273
+The time of tetranacci (904) is :0.0
+
+
+The value of the tetranacci(905)234052338
+The time of tetranacci (905) is :0.0
+
+
+The value of the tetranacci(906)238711164
+The time of tetranacci (906) is :0.0
+
+
+The value of the tetranacci(907)-1231510840
+The time of tetranacci (907) is :0.0
+
+
+The value of the tetranacci(908)-611316065
+The time of tetranacci (908) is :0.0
+
+
+The value of the tetranacci(909)-1370063403
+The time of tetranacci (909) is :0.0
+
+
+The value of the tetranacci(910)1320788152
+The time of tetranacci (910) is :0.0
+
+
+The value of the tetranacci(911)-1892102156
+The time of tetranacci (911) is :0.0
+
+
+The value of the tetranacci(912)1742273824
+The time of tetranacci (912) is :0.0
+
+
+The value of the tetranacci(913)-199103583
+The time of tetranacci (913) is :0.0
+
+
+The value of the tetranacci(914)971856237
+The time of tetranacci (914) is :0.0
+
+
+The value of the tetranacci(915)622924322
+The time of tetranacci (915) is :0.0
+
+
+The value of the tetranacci(916)-1157016496
+The time of tetranacci (916) is :0.0
+
+
+The value of the tetranacci(917)238660480
+The time of tetranacci (917) is :0.0
+
+
+The value of the tetranacci(918)676424543
+The time of tetranacci (918) is :0.0
+
+
+The value of the tetranacci(919)380992849
+The time of tetranacci (919) is :0.0
+
+
+The value of the tetranacci(920)139061376
+The time of tetranacci (920) is :0.0
+
+
+The value of the tetranacci(921)1435139248
+The time of tetranacci (921) is :0.0
+
+
+The value of the tetranacci(922)-1663349280
+The time of tetranacci (922) is :0.0
+
+
+The value of the tetranacci(923)291844193
+The time of tetranacci (923) is :0.0
+
+
+The value of the tetranacci(924)202695537
+The time of tetranacci (924) is :0.0
+
+
+The value of the tetranacci(925)266329698
+The time of tetranacci (925) is :0.0
+
+
+The value of the tetranacci(926)-902479852
+The time of tetranacci (926) is :0.0
+
+
+The value of the tetranacci(927)-141610424
+The time of tetranacci (927) is :0.0
+
+
+The value of the tetranacci(928)-575065041
+The time of tetranacci (928) is :0.0
+
+
+The value of the tetranacci(929)-1352825619
+The time of tetranacci (929) is :0.0
+
+
+The value of the tetranacci(930)1322986360
+The time of tetranacci (930) is :0.0
+
+
+The value of the tetranacci(931)-746514724
+The time of tetranacci (931) is :0.0
+
+
+The value of the tetranacci(932)-1351419024
+The time of tetranacci (932) is :0.0
+
+
+The value of the tetranacci(933)-2127773007
+The time of tetranacci (933) is :0.0
+
+
+The value of the tetranacci(934)1392246901
+The time of tetranacci (934) is :0.0
+
+
+The value of the tetranacci(935)1461507442
+The time of tetranacci (935) is :0.0
+
+
+The value of the tetranacci(936)-625437688
+The time of tetranacci (936) is :0.0
+
+
+The value of the tetranacci(937)100543648
+The time of tetranacci (937) is :0.0
+
+
+The value of the tetranacci(938)-1966106993
+The time of tetranacci (938) is :0.0
+
+
+The value of the tetranacci(939)-1029493591
+The time of tetranacci (939) is :0.0
+
+
+The value of the tetranacci(940)774472672
+The time of tetranacci (940) is :0.0
+
+
+The value of the tetranacci(941)-2120584264
+The time of tetranacci (941) is :0.0
+
+
+The value of the tetranacci(942)-46744880
+The time of tetranacci (942) is :0.0
+
+
+The value of the tetranacci(943)1872617233
+The time of tetranacci (943) is :0.0
+
+
+The value of the tetranacci(944)479760761
+The time of tetranacci (944) is :0.001
+
+
+The value of the tetranacci(945)185048850
+The time of tetranacci (945) is :0.0
+
+
+The value of the tetranacci(946)-1804285332
+The time of tetranacci (946) is :0.0
+
+
+The value of the tetranacci(947)733141512
+The time of tetranacci (947) is :0.0
+
+
+The value of the tetranacci(948)-406334209
+The time of tetranacci (948) is :0.0
+
+
+The value of the tetranacci(949)-1292429179
+The time of tetranacci (949) is :0.0
+
+
+The value of the tetranacci(950)1525060088
+The time of tetranacci (950) is :0.0
+
+
+The value of the tetranacci(951)559438212
+The time of tetranacci (951) is :0.0
+
+
+The value of the tetranacci(952)385734912
+The time of tetranacci (952) is :0.0
+
+
+The value of the tetranacci(953)1177804033
+The time of tetranacci (953) is :0.0
+
+
+The value of the tetranacci(954)-646930051
+The time of tetranacci (954) is :0.0
+
+
+The value of the tetranacci(955)1476047106
+The time of tetranacci (955) is :0.0
+
+
+The value of the tetranacci(956)-1902311296
+The time of tetranacci (956) is :0.0
+
+
+The value of the tetranacci(957)104609792
+The time of tetranacci (957) is :0.0
+
+
+The value of the tetranacci(958)-968584449
+The time of tetranacci (958) is :0.0
+
+
+The value of the tetranacci(959)-1290238847
+The time of tetranacci (959) is :0.0
+
+
+The value of the tetranacci(960)238442496
+The time of tetranacci (960) is :0.0
+
+
+The value of the tetranacci(961)-1915771008
+The time of tetranacci (961) is :0.0
+
+
+The value of the tetranacci(962)358815488
+The time of tetranacci (962) is :0.0
+
+
+The value of the tetranacci(963)1686215425
+The time of tetranacci (963) is :0.0
+
+
+The value of the tetranacci(964)367702401
+The time of tetranacci (964) is :0.0
+
+
+The value of the tetranacci(965)496962306
+The time of tetranacci (965) is :0.0
+
+
+The value of the tetranacci(966)-1385271676
+The time of tetranacci (966) is :0.0
+
+
+The value of the tetranacci(967)1165608456
+The time of tetranacci (967) is :0.0
+
+
+The value of the tetranacci(968)645001487
+The time of tetranacci (968) is :0.0
+
+
+The value of the tetranacci(969)922300573
+The time of tetranacci (969) is :0.0
+
+
+The value of the tetranacci(970)1347638840
+The time of tetranacci (970) is :0.0
+
+
+The value of the tetranacci(971)-214417940
+The time of tetranacci (971) is :0.0
+
+
+The value of the tetranacci(972)-1594444336
+The time of tetranacci (972) is :0.0
+
+
+The value of the tetranacci(973)461077137
+The time of tetranacci (973) is :0.0
+
+
+The value of the tetranacci(974)-146299
+The time of tetranacci (974) is :0.0
+
+
+The value of the tetranacci(975)-1347931438
+The time of tetranacci (975) is :0.001
+
+
+The value of the tetranacci(976)1813522360
+The time of tetranacci (976) is :0.0
+
+
+The value of the tetranacci(977)926521760
+The time of tetranacci (977) is :0.0
+
+
+The value of the tetranacci(978)1391966383
+The time of tetranacci (978) is :0.0
+
+
+The value of the tetranacci(979)-1510888231
+The time of tetranacci (979) is :0.0
+
+
+The value of the tetranacci(980)-1673845024
+The time of tetranacci (980) is :0.0
+
+
+The value of the tetranacci(981)-866245112
+The time of tetranacci (981) is :0.0
+
+
+The value of the tetranacci(982)1635955312
+The time of tetranacci (982) is :0.0
+
+
+The value of the tetranacci(983)1879944241
+The time of tetranacci (983) is :0.0
+
+
+The value of the tetranacci(984)975809417
+The time of tetranacci (984) is :0.0
+
+
+The value of the tetranacci(985)-669503438
+The time of tetranacci (985) is :0.0
+
+
+The value of the tetranacci(986)-472761764
+The time of tetranacci (986) is :0.0
+
+
+The value of the tetranacci(987)1713488456
+The time of tetranacci (987) is :0.0
+
+
+The value of the tetranacci(988)1547032671
+The time of tetranacci (988) is :0.0
+
+
+The value of the tetranacci(989)2118255925
+The time of tetranacci (989) is :0.0
+
+
+The value of the tetranacci(990)611047992
+The time of tetranacci (990) is :0.0
+
+
+The value of the tetranacci(991)1694857748
+The time of tetranacci (991) is :0.0
+
+
+The value of the tetranacci(992)1676227040
+The time of tetranacci (992) is :0.0
+
+
+The value of the tetranacci(993)1805421409
+The time of tetranacci (993) is :0.0
+
+
+The value of the tetranacci(994)1492586893
+The time of tetranacci (994) is :0.0
+
+
+The value of the tetranacci(995)-1920841502
+The time of tetranacci (995) is :0.0
+
+
+The value of the tetranacci(996)-1241573456
+The time of tetranacci (996) is :0.0
+
+
+The value of the tetranacci(997)135593344
+The time of tetranacci (997) is :0.0
+
+
+The value of the tetranacci(998)-1534234721
+The time of tetranacci (998) is :0.0
+
+
+The value of the tetranacci(999)-266089039
+The time of tetranacci (999) is :0.0
+
