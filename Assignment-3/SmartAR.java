@@ -71,14 +71,26 @@ public class SmartAR {
     		{
     			hashCar.put(cars.get(i).getKey(),cars.get(i));
     		}
+    		cars.clear();
     	
     }
     public void changeHashToSeq()
     {
     	Set<String> keys = hashCar.keySet();
-        for(String tempkey : keys){
+        for(String tempkey : keys)
+        {
             cars.add(hashCar.get(tempkey));
         }
+        Collections.sort(cars, new Comparator<Car>() {
+
+			@Override
+			public int compare(Car obj1, Car obj2) {
+				
+				return obj1.order-obj2.order;
+			}
+        	
+        	
+        });
     }
     public void generate(int n) 
     {
@@ -115,13 +127,13 @@ public class SmartAR {
     {
     	if(noOfCars>=threshold)
     	{
-    		
+    		System.out.println("hash");
     		printHash();
     		
     	}
     	else if(noOfCars<threshold)
     	{
-    		
+    		System.out.println("seq");
     		printSeq();
     		
     	}
