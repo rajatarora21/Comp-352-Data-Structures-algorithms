@@ -225,10 +225,13 @@ public class SmartAR {
     		int i=1;
     		for(String tempKeys:keys)
     		{
-    			if(findByOrder(tempKeys)==i)
+    			if(hashCar.get(tempKeys).order==i)
     			{
     				System.out.println("The key:"+tempKeys+"  value:"+hashCar.get(tempKeys));
+    				i++;
     			}
+    			if(i==order)
+    				break;
     			
     		}
     	
@@ -238,10 +241,7 @@ public class SmartAR {
     	Set<String> keys=hashCar.keySet();
     	for(String tempKeys:keys)
     	{
-    		if(hashCar.contains(tempKeys))
-    		{
-    			return hashCar.get(tempKeys).order;
-    		}
+    		return hashCar.get(tempKeys).order;
     	}
     	return -1;
     }
@@ -355,28 +355,55 @@ public class SmartAR {
         }
 
     }
-    public ArrayList<String> previousCars(String key){
-        ArrayList<String> temp = new ArrayList<String>();
-        int index = 0;
-        for(int i =0; i< cars.size();i++){
-            Car t = cars.get(i);
-                if(t.key.equals(key)){
-                    index = cars.indexOf(t);
-                }
+    public ArrayList<String> previousCars(String key)
+    {
+    	
+    	int index=0;
+        if(noOfCars<threshold)
+        {
+        	ArrayList<String> temp=new ArrayList<String>();
+        	for(int i =0; i< cars.size();i++){
+                Car t = cars.get(i);
+                    if(t.key.equals(key)){
+                        index = cars.indexOf(t);
+                    }
+            }
+            for (int i = 0; i < index; i++) 
+            {
+                temp.add(cars.get(i).getKey());
+            }
+            return temp;
+                       
         }
-        for (int i = 0; i < index; i++) {
-            temp.add(cars.get(i).getKey());
+        else if(noOfCars>=threshold)
+        {
+        	
+        	if(hashCar.containsKey(key))
+        	{
+        		int order=hashCar.get(key).order;
+        		ArrayList<String> temp=new ArrayList<String>(order);
+        		String[] Prevkeys=new String[order];
+        		System.out.println("the order is"+order);
+        		Set<String> keys=hashCar.keySet();
+        		for(String tempKeys:keys)
+        		{
+        			if(hashCar.get(tempKeys).order<order)
+        			{
+        				Prevkeys[hashCar.get(tempKeys).order]=hashCar.get(tempKeys).key;
+        			}
+        			
+        		}
+        		for(int i=0;i<Prevkeys.length;i++)
+        		{
+        			temp.add(Prevkeys[i]);
+        		}
+        		return temp;
+        	}
+        	
         }
-        temp.sort(Comparator.naturalOrder());
-        Collections.reverse(temp);
-
-        for (int i = 0; i < index; i++) {
-            System.out.println("This car has key "+temp.get(i)+" and value "+seqGetValues(temp.get(i)));
-        }
-        return temp;
-
-    }
-
+            return null;
+        	
+     }
     public void printSeq() {
 
         for (int i = 0; i < cars.size(); i++) {

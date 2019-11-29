@@ -53,6 +53,11 @@ public class Driver {
 				case 6:
 						System.out.println("Enter the key to get previous cars:");
 						String prevKeys=input.next();
+						ArrayList<String> tempList=smartARObj.previousCars(prevKeys);
+						for(int i=tempList.size()-1;i>=0;i--)
+						{
+							System.out.println(tempList.get(i));
+						}
 						break;
 				case 7:
 						System.out.println("Here are the sorted keys");
