@@ -431,7 +431,7 @@ public class SmartAR {
 
 
 
-    public static String generateRandomString(int length) {
+    public String generateRandomString(int length) {
         String CHAR_LOWER = "abcdefghijklmnopqrstuvwxyz";
         String CHAR_UPPER = CHAR_LOWER.toUpperCase();
         String NUMBER = "0123456789";
@@ -450,8 +450,27 @@ public class SmartAR {
 
             sb.append(rndChar);
         }
-
-        return sb.toString();
+        if(isPresent(sb.toString())==false)
+        {
+        	return sb.toString();
+        }
+        else
+        {
+        	generateRandomString(length);
+        }
+        return null;
+    }
+    public boolean isPresent(String key)
+    {
+    	if(noOfCars<threshold)
+    	{
+    		return cars.contains(key);
+    	}
+    	else if(noOfCars>=threshold)
+    	{
+    		return hashCar.containsKey(key);
+    	}
+    	return false;
     }
     public ArrayList<String> allKeys() {
 		if (noOfCars<threshold) 
@@ -472,6 +491,7 @@ public class SmartAR {
 		}
 		return null;
 	}
+   
     
 
 }
