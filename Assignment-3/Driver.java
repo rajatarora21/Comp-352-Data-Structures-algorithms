@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Driver {
@@ -55,7 +56,11 @@ public class Driver {
 						break;
 				case 7:
 						System.out.println("Here are the sorted keys");
-						smartARObj.allKeys();
+						ArrayList<String> list=smartARObj.allKeys();
+						for(int i=0;i<list.size();i++)
+						{
+							System.out.println(list.get(i));
+						}
 						break;
 				case 8:
 						smartARObj.printDeletedCars();

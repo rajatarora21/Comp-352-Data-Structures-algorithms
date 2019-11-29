@@ -111,18 +111,6 @@ public class SmartAR {
     	}
     	return null;
     }
-    public List<String> allKeys()
-    {
-    	if(noOfCars>=threshold)
-    	{
-    		return seqAllKeys();
-    	}
-    	else if(noOfCars<threshold)
-    	{
-    		return hashAllKeys();
-    	}
-    	return null;
-    }
     public void printCars()
     {
     	if(noOfCars>=threshold)
@@ -389,24 +377,6 @@ public class SmartAR {
 
     }
 
-    public List<String> seqAllKeys() {
-        ArrayList<String> temp = new ArrayList<String>();
-
-        for (int i = 0; i < cars.size(); i++) {
-            temp.add(cars.get(i).getKey());
-        }
-        temp.sort(Comparator.naturalOrder());
-
-        for (int i = 0; i < temp.size(); i++) {
-            System.out.println(temp.get(i));
-        }
-        return temp;
-    }
-    public List<String> hashAllKeys()
-    {
-    	return null;
-    }
-
     public void printSeq() {
 
         for (int i = 0; i < cars.size(); i++) {
@@ -444,5 +414,25 @@ public class SmartAR {
 
         return sb.toString();
     }
+    public ArrayList<String> allKeys() {
+		if (noOfCars<threshold) 
+		{
+			ArrayList<String> keys = new ArrayList<String>();
+
+			for (int i = 0; i < cars.size(); i++) {
+				keys.add(cars.get(i).getKey());
+			}
+			Collections.sort(keys);
+			return keys;
+		}
+		else if (noOfCars>=threshold) 
+		{
+			ArrayList<String> keys = new ArrayList<String>(hashCar.keySet());
+			Collections.sort(keys);
+			return keys;
+		}
+		return null;
+	}
+    
 
 }
